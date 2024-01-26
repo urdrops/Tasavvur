@@ -1,0 +1,1092 @@
+№,ID,Ta'lim turi,Yo'nalish ko'di ,Yonalish mutaxassislik nomi
+1,1,Б,5110100,Matematika va informatika
+2,2,Б,5110200,Fizika va astronomiya
+3,3,Б,5110300,Kimyo
+4,4,Б,5110400,Biologiya
+5,5,Б,5110500,Geografiya va iqtisodiy bilim asoslari
+6,6,Б,5110600,Tarix
+7,7,Б,5110800,Tasviriy sanʼat va muhandislik grafikasi
+8,8,Б,5110900,Pedagogika va psixologiya
+9,9,Б,5111001,Professional taʼlim: amaliy sanʼat (amaliy sanʼat asarlarini taʼmirlash)
+10,10,Б,5111002,Professional taʼlim: vokal sanʼati (turlari boʼyicha)
+11,11,Б,5111004,Professional taʼlim: dizayn (libos va gazlamalar)
+12,12,Б,5111005,Professional taʼlim: qishloq xoʼjaligini mexanizatsiyalashtirish
+13,13,Б,5111006,Professional taʼlim: rangtasvir (dastgohli)
+14,14,Б,5111007,Professional taʼlim: suv xoʼjaligi va melioratsiya
+15,15,Б,5111008,Professional taʼlim: tibbiy-pedagogik ish
+16,16,Б,5111009,Professional taʼlim: transport vositalari muhandisligi (avtotransport)
+17,17,Б,5111010,Professional taʼlim: farmatsiya
+18,18,Б,5111011,Professional taʼlim: xalq ijodiyoti (vokal ijrochiligi)
+19,19,Б,5111013,Professional taʼlim: xoreografiya
+20,20,Б,5111014,Professional taʼlim: cholgʼu ijrochiligi (turlari boʼyicha)
+21,21,Б,5111100,Musiqa taʼlimi
+22,22,Б,5111200,Oʼzbek tili va adabiyoti
+23,23,Б,5111300,Ona tili va adabiyoti: turkman tili va adabiyoti
+24,24,Б,5111301,Ona tili va adabiyoti: rus tili va adabiyoti
+25,25,Б,5111302,Ona tili va adabiyoti: qoraqalpoq tili va adabiyoti
+26,26,Б,5111303,Ona tili va adabiyoti: koreys tili va adabiyoti
+27,27,Б,5111304,Ona tili va adabiyoti: qirgʼiz tili va adabiyoti
+28,28,Б,5111305,Ona tili va adabiyoti: qozoq tili va adabiyoti
+29,29,Б,5111308,Ona tili va adabiyoti: tojik tili va adabiyoti
+30,30,Б,5111400,Xorijiy til va adabiyoti: ingliz tili
+31,31,Б,5111401,Xorijiy til va adabiyoti: nemis tili
+32,32,Б,5111402,Xorijiy til va adabiyoti: frantsuz tili
+33,33,Б,5111500,Chaqiriqqacha harbiy taʼlim
+34,34,Б,5111600,"Milliy gʼoya, maʼnaviyat asoslari va huquq taʼlimi"
+35,35,Б,5111700,Boshlangʼich taʼlim
+36,36,Б,5111800,Maktabgacha taʼlim
+37,37,Б,5111901,Defektologiya: logopediya
+38,38,Б,5111902,Defektologiya: surdopedagogika
+39,39,Б,5111903,Defektologiya: oligofrenopedagogika
+40,40,Б,5112000,Jismoniy madaniyat
+41,41,Б,5112100,Texnologik taʼlim
+42,42,Б,5112200,Maktabgacha va boshlangʼich taʼlimda xorijiy til (ingliz tili)
+43,43,Б,5112400,Oʼzga tilli guruhlarda oʼzbek tili
+44,44,Б,5112500,Oʼzga tilli guruhlarda rus tili
+45,45,Б,5112700,Maktabgacha taʼlim psixologiyasi va pedagogikasi
+46,46,Б,5120101,Filologiya va tillarni oʼqitish: oʼzbek tili
+47,47,Б,5120102,Filologiya va tillarni oʼqitish: rus tili
+48,48,Б,5120103,Filologiya va tillarni oʼqitish: qoraqalpoq tili
+49,49,Б,5120104,Filologiya va tillarni oʼqitish: koreys tili
+50,50,Б,5120105,Filologiya va tillarni oʼqitish: yapon tili
+51,51,Б,5120106,Filologiya va tillarni oʼqitish: arab tili
+52,52,Б,5120107,Filologiya va tillarni oʼqitish: italьyan tili
+53,53,Б,5120108,Filologiya va tillarni oʼqitish: xitoy tili
+54,54,Б,5120112,Filologiya va tillarni oʼqitish: ingliz tili
+55,55,Б,5120113,Filologiya va tillarni oʼqitish: nemis tili
+56,56,Б,5120114,Filologiya va tillarni oʼqitish: frantsuz tili
+57,57,Б,5120115,Filologiya va tillarni oʼqitish: ispan tili
+58,58,Б,5120116,Filologiya va tillarni oʼqitish: qozoq tili
+59,59,Б,5120117,Filologiya va tillarni oʼqitish: tojik tili
+60,60,Б,5120118,Filologiya va tillarni oʼqitish: turkman tili
+61,61,Б,5120131,Filologiya va tillarni oʼqitish: arab tili
+62,62,Б,5120132,Filologiya va tillarni oʼqitish: fors tili
+63,63,Б,5120133,Filologiya va tillarni oʼqitish: dariy tili
+64,64,Б,5120134,Filologiya va tillarni oʼqitish: turk tili
+65,65,Б,5120135,Filologiya va tillarni oʼqitish: urdu tili
+66,66,Б,5120136,Filologiya va tillarni oʼqitish: indonez tili
+67,67,Б,5120137,Filologiya va tillarni oʼqitish: vьetnam tili
+68,68,Б,5120140,Filologiya va tillarni oʼqitish: sharq mumtoz tillari
+69,69,Б,5120201,Tarjima nazariyasi va amaliyoti: ingliz tili
+70,70,Б,5120202,Tarjima nazariyasi va amaliyoti: nemis tili
+71,71,Б,5120203,Tarjima nazariyasi va amaliyoti: frantsuz tili
+72,72,Б,5120206,Tarjima nazariyasi va amaliyoti: italьyan tili
+73,73,Б,5120208,Tarjima nazariyasi va amaliyoti: arab tili
+74,74,Б,5120209,Tarjima nazariyasi va amaliyoti: rus tili
+75,75,Б,5120211,Tarjima nazariyasi va amaliyoti: dariy tili
+76,76,Б,5120300,Tarix (mamlakatlar va yoʼnalishlar boʼyicha)
+77,77,Б,5120301,Tarix (islom tarixi va manbashunosligi)
+78,78,Б,5120302,Tarix: Eron tarixi
+79,79,Б,5120303,Tarix: Hindiston tarixi
+80,80,Б,5120304,Tarix: Koreya tarixi
+81,81,Б,5120305,Tarix: Markaziy Osiyo xalqlari tarixi
+82,82,Б,5120400,Аrxeologiya
+83,83,Б,5120500,Falsafa (yoʼnalishlar boʼyicha)
+84,84,Б,5120501,Falsafa (sharq falsafasi va madaniyati)
+85,85,Б,5120600,Dinshunoslik
+86,86,Б,5120701,Matnshunoslik va adabiy manbashunoslik: arab tili
+87,87,Б,5120702,Matnshunoslik va adabiy manbashunoslik: fors tili
+88,88,Б,5121100,Xalqaro munosabatlar
+89,89,Б,5121200,Madaniyatlararo kommunikatsiyalarning lingvistik taʼminoti (ingliz tili)
+90,90,Б,5121400,Аntropologiya va etnologiya
+91,91,Б,5130100,Matematika
+92,92,Б,5130200,Аmaliy matematika
+93,93,Б,5130300,Matematik injiniring (ishlab chiqarish sohalari boʼyicha)
+94,94,Б,5140100,Biologiya (turlari boʼyicha)
+95,95,Б,5140200,Fizika
+96,96,Б,5140300,Mexanika va matematik modellashtirish
+97,97,Б,5140400,Аstronomiya
+98,98,Б,5140500,Kimyo (turlari boʼyicha)
+99,99,Б,5140600,Geografiya
+100,100,Б,5140700,Gidrometeorologiya
+101,101,Б,5140800,Geologiya (faoliyat sohasi boʼyicha)
+102,102,Б,5141000,Tuproqshunoslik
+103,103,Б,5141100,Gidrologiya (tarmoqlar boʼyicha)
+104,104,Б,5141101,Gidrologiya (daryo va suv omborlari gidrologiyasi)
+105,105,Б,5141300,Neftь va gaz kimyosi
+106,106,Б,5141400,Tabiiy va fiziologik faol birikmalar kimyosi
+107,107,Б,5141500,Tibbiyot fizikasi
+108,108,Б,5150100,Bastakorlik sanʼati
+109,109,Б,5150200,Sanʼatshunoslik: tasviriy va amaliy sanʼat
+110,110,Б,5150201,Sanʼatshunoslik: musiqashunoslik
+111,111,Б,5150204,Sanʼatshunoslik: xoreografiya
+112,112,Б,5150207,Sanʼatshunoslik: sahna va ekran sanʼati dramaturgiyasi
+113,113,Б,5150208,Sanʼatshunoslik: kino sanʼati tanqidi va tahlili
+114,114,Б,5150301,Аktyorlik sanʼati: dramatik teatr va kino aktyorligi
+115,115,Б,5150302,Аktyorlik sanʼati: musiqali teatr aktyorligi
+116,116,Б,5150303,Аktyorlik sanʼati: qoʼgʼirchoq teatri aktyorligi
+117,117,Б,5150304,Аktyorlik sanʼati: estrada aktyorligi
+118,118,Б,5150400,Rejissyorlik: dramatik teatr rejissyorligi
+119,119,Б,5150406,Rejissyorlik: kino va televidenie rejissyorligi
+120,120,Б,5150501,Dirijyorlik: akademik xor dirijyorligi
+121,121,Б,5150502,Dirijyorlik: opera - simfoniya dirijyorligi
+122,122,Б,5150503,Dirijyorlik: harbiy (damli) orkestr dirijyorligi
+123,123,Б,5150504,Dirijyorlik: xalq cholgʼulari orkestri dirijyorligi
+124,124,Б,5150505,Dirijyorlik: estrada orkestri dirijyorligi
+125,125,Б,5150602,Vokal sanʼati : anʼanaviy xonandalik
+126,126,Б,5150603,Vokal sanʼati : estrada xonandaligi
+127,127,Б,5150701,Cholgʼu ijrochiligi: fortepiano (organ)
+128,128,Б,5150702,"Cholgʼu ijrochiligi: torli cholgʼular (skripka, alьt)"
+129,129,Б,5150703,Cholgʼu ijrochiligi : torli cholgʼular (violonchelь kontrabas)
+130,130,Б,5150704,"Cholgʼu ijrochiligi: puflama va zarbli cholgʼular (fleyta, goboy)"
+131,131,Б,5150705,"Cholgʼu ijrochiligi: puflama va zarbli cholgʼular (klarnet, fagot)"
+132,132,Б,5150706,"Cholgʼu ijrochiligi: puflama va zarbli cholgʼular (valtorna, truba)"
+133,133,Б,5150707,"Cholgʼu ijrochiligi: puflama va zarbli cholgʼular (trombon, tuba)"
+134,134,Б,5150708,Cholgʼu ijrochiligi: puflama va zarbli cholgʼular (zarbli cholgʼular)
+135,135,Б,5150709,"Cholgʼu ijrochiligi: xalq cholgʼulari (nay-qoʼshnay, bayan-akkorbeon)"
+136,136,Б,5150710,Cholgʼu ijrochiligi: xalq cholgʼulari (chang)
+137,137,Б,5150711,"Cholgʼu ijrochiligi: xalq cholgʼulari ( rubob prima, qashqar va afgʼon rubobi)"
+138,138,Б,5150712,"Cholgʼu ijrochiligi: xalq cholgʼulari (dutor, dutor bas, dutor kontrabas, tanbur)"
+139,139,Б,5150713,Cholgʼu ijrochiligi: xalq cholgʼulari (zarbli cholgʼular)
+140,140,Б,5150714,"Cholgʼu ijrochiligi: xalq cholgʼulari (gijjak, gijjak alьt)"
+141,141,Б,5150715,"Cholgʼu ijrochiligi (xalq cholgʼulari (gijjak qobus bas, gijjak qobus - kontrabas)"
+142,142,Б,5150716,Cholgʼu ijrochiligi: anʼanaviy cholgʼular
+143,143,Б,5150717,Cholgʼu ijrochiligi: estrada cholgʼulari (saksafon)
+144,144,Б,5150718,Cholgʼu ijrochiligi: estrada cholgʼulari (trombon)
+145,145,Б,5150719,Cholgʼu ijrochiligi: estrada cholgʼulari (truba)
+146,146,Б,5150720,Cholgʼu ijrochiligi: estrada cholgʼulari (gitara)
+147,147,Б,5150721,Cholgʼu ijrochiligi: estrada cholgʼulari (gitara bas)
+148,148,Б,5150722,Cholgʼu ijrochiligi: estrada cholgʼulari (zarbli cholgʼular)
+149,149,Б,5150723,Cholgʼu ijrochiligi: estrada cholgʼulari (fortepiano)
+150,150,Б,5150801,Rangtasvir: dastgohli
+151,151,Б,5150802,Rangtasvir: mahobatli rangtasvir
+152,152,Б,5150803,Rangtasvir: teatr-bezak rantasviri
+153,153,Б,5150804,Rangtasvir: filьmning tasviriy yechimi
+154,154,Б,5150805,Rangtasvir: mulьtfilьm va kompьyuter mulьtiplikatsiyasi
+155,155,Б,5150900,Dizayn (mediadizayn)
+156,156,Б,5150900,Dizayn (poyabzal va aksessuarlar dizayni)
+157,157,Б,5150902,Dizayn: reklama va amaliy grafika
+158,158,Б,5150903,Dizayn: interьerni loyihalash
+159,159,Б,5150904,Dizayn: libos va gazlamalar
+160,160,Б,5150905,Dizayn: sanoat dizayni
+161,161,Б,5150907,Dizayn: kostyum dizayni
+162,162,Б,5150908,Dizayn: poyabzal va aksessuarlar dizayni
+163,163,Б,5150909,Dizayn (milliy kostyum)
+164,164,Б,5150910,Dizayn: arxitekturaviy muhit dizayni
+165,165,Б,5150911,Dizayn: landshaft dizayni
+166,166,Б,5151001,Grafika: dastgoh va kitob grafikasi
+167,167,Б,5151002,Grafika: xattotlik va miniatyura
+168,168,Б,5151101,Haykaltaroshlik (mahobatli)
+169,169,Б,5151201,Аmaliy sanьat: badiiy kulolchilik
+170,170,Б,5151202,Аmaliy sanʼat: meʼmoriy yodgorliklar bezagini taʼmirlash
+171,171,Б,5151203,Аmaliy sanʼat: amaliy sanʼat asarlarini taʼmirlash
+172,172,Б,5151204,Аmaliy sanʼat (xalq amaliy bezak sanʼati va restavratsiya)
+173,173,Б,5151300,Xoreografiya (turlari boʼyicha)
+174,174,Б,5151301,Xoreografiya (zamonaviy raqs)
+175,175,Б,5151400,Texnogen sanʼat: musiqiy ovoz rejissyorligi
+176,176,Б,5151402,"Texnogen sanʼat: kino, televidenie va radio ovoz rejissyorligi"
+177,177,Б,5151500,Kino-teleoperatorlik
+178,178,Б,5151602,Xalq ijodiyoti: folьklor va etnografiya
+179,179,Б,5151605,Xalq ijodiyoti: ashula va raqs
+180,180,Б,5151606,Xalq ijodiyoti: baxshichilik va dostonchilik
+181,181,Б,5151700,Madaniyat va sanʼat muassasalarini tashkil etish hamda boshqarish
+182,182,Б,5151800,Sanʼatda animatsiyaviy va mulьtimediyaviy loyihalash
+183,183,Б,5151901,"Muzeyshunoslik: muzey predmetlari ekspertizasi, 
+konservatsiyalash va taʼmirlash"
+184,184,Б,5151902,Muzeyshunoslik: muzey menejmenti va madaniy turizm
+185,185,Б,5152000,Grim sanʼati
+186,186,Б,5152100,Sanʼat sohasida prodyuserlik
+187,187,Б,5160100,"Islomshunoslik (qurʼonshunoslik, hadisshunoslik, islom huquqi, aqida va tasavvuf, islom tarixi va manbashunosligi)"
+188,188,Б,5210100,Sotsiologiya
+189,189,Б,5210201,Psixologiya (din sotsiopsixologiyasi)
+190,190,Б,5210202,Psixologiya: sport psixologiyasi
+191,191,Б,5210203,Psixologiya: amaliy psixologiya
+192,192,Б,5210204,Psixologiya: oila psixologiyasi
+193,193,Б,5210205,Psixologiya: yoshlar psixologiyasi
+194,194,Б,5210300,Siyosatshunoslik
+195,195,Б,5220100,Jurnalistika (faoliyat turlari boʼyicha)
+196,196,Б,5220101,Jurnalistika: bosma ommaviy axborot vositalari jurnalistikasi
+197,197,Б,5220102,Jurnalistika: teleradio jurnalistikasi
+198,198,Б,5220103,Jurnalistika: internet jurnalistika
+199,199,Б,5220104,Jurnalistika: xalqaro jurnalistika
+200,200,Б,5220105,Jurnalistika: sport jurnalistikasi
+201,201,Б,5220106,Jurnalistika: harbiy jurnalistika
+202,202,Б,5220200,Аxborot xizmati va jamoatchilik bilan aloqalar
+203,203,Б,5220300,Аrxivshunoslik
+204,204,Б,5220400,Аxborot xavfsizligini boshqarish
+205,205,Б,5230100,Iqtisodiyot (tarmoqlar va sohalar boʼyicha)
+206,206,Б,5230101,Iqtisodiyot: oziq-ovqat va resurslar iqtisodiyoti
+207,207,Б,5230102,Iqtisodiyot: qishloq xoʼjaligi iqtisodiyoti
+208,208,Б,5230102,Iqtisodiyot (qishloq xoʼjaligida)
+209,209,Б,5230103,Iqtisodiyot (suv xoʼjaligida)
+210,210,Б,5230200,Menejment (tarmoqlar va sohalar boʼyicha)
+211,211,Б,5230202,Menejment: turizm biznesini boshqarish
+212,212,Б,5230203,Menejment: mehmonxonalarni boshqarish
+213,213,Б,5230204,Menejment: madaniy merosni boshqarish
+214,214,Б,5230206,Menejment: restoran biznesini boshqarish
+215,215,Б,5230207,Menejment (art menejment va galereya ishi)
+216,216,Б,5230208,Menejment: ommaviy tadbirlar menejmenti
+217,217,Б,5230211,Menejment (jismoniy tarbiya va sport menejmenti)
+218,218,Б,5230212,Menejment (sanoat korxonalarida innovatsion loyihalar boshqaruvi)
+219,219,Б,5230213,Menejment (sport tadbirlarini tashkil etish va boshqarish)
+220,220,Б,5230300,Biznesni boshqarish (tarmoqlar boʼyicha)
+221,221,Б,5230400,Marketing (tarmoqlar va sohalar boʼyicha)
+222,222,Б,5230401,Marketing (sport marketingi)
+223,223,Б,5230402,Marketing (qishloq xoʼjaligida)
+224,224,Б,5230403,Marketing (mediamarketing va reklama)
+225,225,Б,5230404,Marketing (reklama ishi)
+226,226,Б,5230405,Marketing (turizm marketingi)
+227,227,Б,5230600,Moliya va moliyaviy texnologiyalar
+228,228,Б,5230700,Bank ishi va auditi
+229,229,Б,5230800,Soliqlar va soliqqa tortish
+230,230,Б,5230900,Buxgalteriya hisobi va audit (tarmoqlar boʼyicha)
+231,231,Б,5230900,Buxgalteriya hisobi va audit (qishloq xoʼjaligida)
+232,232,Б,5231006,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Xitoy
+233,233,Б,5231007,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Hindiston
+234,234,Б,5231008,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Koreya
+235,235,Б,5231009,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Yaponiya
+236,236,Б,5231100,"Jahon iqtisodiyoti va xalqaro iqtisodiy munosabatlar 
+(mintaqalar va faoliyat turlari boʼyicha)"
+237,237,Б,5231200,Sugʼurta ishi
+238,238,Б,5231300,Byudjet nazorati va gʼaznachiligi
+239,239,Б,5231400,Statistika (tarmoqlar va sohalar boʼyicha)
+240,240,Б,5231500,Baholash ishi
+241,241,Б,5231600,Inson resurslarini boshqarish
+242,242,Б,5231700,Birja ishi
+243,243,Б,5231800,Biznes-tahlil
+244,244,Б,5231900,Korporativ boshqaruv
+245,245,Б,5232200,Ekonometrika
+246,246,Б,5232300,Mintaqaviy iqtisodiyot
+247,247,Б,5232400,Iqtisodiy xavfsizlik
+248,248,Б,5232500,Logistika (yoʼnalishlar boʼyicha)
+249,249,Б,5232500,Logistika (agrologistika)
+250,250,Б,5232700,"Investitsion loyihalarga xizmat koʼrsatish 
+va moliyalashtirish"
+251,251,Б,5232800,Elektron tijorat
+252,252,Б,5233000,Suv xoʼjaligini tashkil etish va boshqarish
+253,253,Б,5233300,Аgrobiznes va investitsion faoliyat
+254,254,Б,5233500,Xalqaro iqtisodiyot va menejment (mintaqalar va faoliyat yoʼnalishlari boʼyicha)
+255,255,Б,5233600,Savdo ishi (turlari boʼyicha)
+256,256,Б,5234100,Raqamli iqtisodiyot (tarmoqlar va sohalar boʼyicha)
+257,257,Б,5234400,Xalqaro valyuta-kredit munosabatlari
+258,258,Б,5240101,Yurisprudentsiya (faoliyat turlari boʼyicha)
+259,259,Б,5240103,Yurisprudentsiya: davlat-huquqiy faoliyat
+260,260,Б,5240104,Yurisprudentsiya: jinoyat-huquqiy faoliyat
+261,261,Б,5240105,Yurisprudentsiya: fuqarolik va biznes huquqi
+262,262,Б,5240106,Yurisprudentsiya: xalqaro huquq va qiyosiy huquqshunoslik
+263,263,Б,5240107,Yurisprudentsiya (xalqaro huquqiy faoliyat)
+264,264,Б,5310100,Energetika (tarmoqlar boʼyicha)
+265,265,Б,5310200,Elektr energetikasi (tarmoqlar va yoʼnalishlar boʼyicha)
+266,266,Б,5310201,Elektr energetikasi (suv xoʼjaligida)
+267,267,Б,5310300,Metallurgiya
+268,268,Б,5310400,Havo kemalarining texnik ekspluatatsiyasi
+269,269,Б,5310500,Аvtomobilsozlik va traktorsozlik
+270,270,Б,5310600,Transport vositalari muhandisligi (turlari boʼyicha)
+271,271,Б,5310700,"Elektr texnikasi, elektr mexanikasi va elektr texnologiyalari (tarmoqlar boʼyicha)"
+272,272,Б,5310800,Elektronika va asbobsozlik (tarmoqlar boʼyicha)
+273,273,Б,5310900,"Metrologiya, standartlashtirish va mahsulot sifati menejmenti (tarmoqlar boʼyicha)"
+274,274,Б,5311000,Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish va boshqarish (tarmoqlar boʼyicha)
+275,275,Б,5311100,Gidroenergetika
+276,276,Б,5311200,Yerni masofaviy zondlashda innovatsion texnologiyalar
+277,277,Б,5311300,Kadastr (faoliyat turlari boʼyicha)
+278,278,Б,5311301,Kadastr (koʼchmas mulk kadastri)
+279,279,Б,5311500,"Geodeziya, kartografiya va kadastr (funktsiyalari boʼyicha)"
+280,280,Б,5311600,Konchilik ishi (faoliyat turlari boʼyicha)
+281,281,Б,5311700,"Foydali qazilma konlari geologiyasi, qidiruv va razvedkasi (kon turlari boʼyicha)"
+282,282,Б,5311800,Gidrogeologiya va muhandislik geologiyasi
+283,283,Б,5311900,Neftь va gaz ishi (faoliyat turlari boʼyicha)
+284,284,Б,5312100,Energiya tejamkorligi va energoaudit
+285,285,Б,5312200,Konchilik elektr mexanikasi
+286,286,Б,5312300,Marksheyderlik ishi
+287,287,Б,5312400,Muqobil energiya manbalari (turlari boʼyicha)
+288,288,Б,5312500,Energiya mashinasozligi (tarmoqlar boʼyicha)
+289,289,Б,5312600,Mexatronika va robototexnika
+290,290,Б,5312700,Intellektual muhandislik tizimlari (tarmoqlar va sohalar boʼyicha)
+291,291,Б,5312900,Lazer-yorugʼlik texnologiyalari va optoelektronika
+292,292,Б,5313000,Biotibbiyot muhandisligi
+293,293,Б,5313200,"Texnika va texnologiyalarning texnik ekspertizasi 
+va marketingi (turlari boʼyicha)"
+294,294,Б,5313400,Geodeziya va geoinformatika
+295,295,Б,5313700,Gaz jihozlaridan foydalanish va ularga xizmat koʼrsatish
+296,296,Б,5314000,Аviatsiya injiniringi
+297,297,Б,5314100,Аmaliy kosmik texnologiyalar
+298,298,Б,5314800,Payvandlash texnologiyasi va jihozlari
+299,299,Б,5320100,"Materialshunoslik va yangi materiallar texnologiyasi 
+(tarmoqlar boʼyicha)"
+300,300,Б,5320101,Materialshunoslik va yangi materiallar texnologiyasi (qurilish)
+301,301,Б,5320200,"Mashinasozlik texnologiyasi, mashinasozlik ishlab chiqarishini jihozlash va avtomatlashtirish"
+302,302,Б,5320300,Texnologik mashinalar va jihozlar (tarmoqlar boʼyicha)
+303,303,Б,5320400,Kimyoviy texnologiya (ishlab chiqarish turlari boʼyicha)
+304,304,Б,5320401,Kimyoviy texnologiya: noorganik moddalar kimyoviy texnologiyasi
+305,305,Б,5320402,Kimyoviy texnologiya: qurilish materiallari kimyoviy texnologiyasi
+306,306,Б,5320500,Biotexnologiya (tarmoqlar boʼyicha)
+307,307,Б,5320800,Matbaa va qadoqlash jarayonlari texnologiyasi
+308,308,Б,5320900,"Engil sanoat buyumlari konstruktsiyasini ishlash 
+va texnologiyasi (ishlab chiqarish turlari boʼyicha)"
+309,309,Б,5320901,"Engil sanoat buyumlari konstruktsiyasini ishlash 
+va texnologiyasi (milliy tikuv buyumlari)"
+310,310,Б,5321000,Oziq-ovqat texnologiyasi (mahsulot turlari boʼyicha)
+311,311,Б,5321100,"Noyob va radioaktiv metallar rudalarini qazib olish, qayta ishlash texnikasi va texnologiyasi"
+312,312,Б,5321200,Tabiiy tolalarni dastlabki ishlash texnologiyasi (xom ashyo va jarayon turlari boʼyicha)
+313,313,Б,5321300,Neftь va neftь-gazni qayta ishlash texnologiyasi
+314,314,Б,5321400,Neftь-gazkimyo sanoati texnologiyasi
+315,315,Б,5321500,Yengil sanoat texnologiyalari va jihozlari (ishlab chiqarish turlari boʼyicha)
+316,316,Б,5321700,Texnologik jarayonlarni boshqarishning axborot-kommunikatsiya tizimlari
+317,317,Б,5321900,Elektron apparaturalar ishlab chiqarish texnologiyasi
+318,318,Б,5322100,Metallar texnologiyalari (jarayon turlari boʼyicha)
+319,319,Б,5322200,Gazni chuqur qayta ishlash texnologiyasi
+320,320,Б,5322400,"Yogʼlar, efir moylari va parfyumeriya-kosmetika mahsulotlari texnologiyasi"
+321,321,Б,5322500,"Vinochilik texnologiyasi, bijgʼish mahsulotlari 
+va alkogolsiz ichimliklar texnologiyasi"
+322,322,Б,5322700,Konservalash texnologiyasi
+323,323,Б,5322800,Funktsional ovqatlanish va bolalar mahsulotlari texnologiyasi
+324,324,Б,5330100,Kompьyuter ilmlari va dasturlash texnologiyalari (yoʼnalishlar boʼyicha)
+325,325,Б,5330200,"Аxborot tizimlari va texnologiyalari (tarmoqlar 
+va sohalar boʼyicha)"
+326,326,Б,5330300,Аxborot xavfsizligi (sohalar boʼyicha)
+327,327,М,5330501,Kompьyuter injiniringi: “Kompьyuter injiniringi”
+328,328,Б,5330502,Kompьyuter injiniringi: АT-Servis
+329,329,Б,5330503,Kompьyuter injiniringi: mulьtimedia texnologiyalari
+330,330,Б,5330600,Dasturiy injiniring
+331,331,Б,5340100,Аrxitektura (turlari boʼyicha)
+332,332,Б,5340200,Bino va inshootlar qurilishi (turlari boʼyicha)
+333,333,Б,5340201,Bino va inshootlar qurilishi (neftь-gazni qayta ishlash sanoati obʼektlari)
+334,334,Б,5340300,Shahar qurilishi hamda kommunal infratuzilmani tashkil etish va boshqarish
+335,335,Б,5340400,"Muhandislik kommunikatsiyalari qurilishi va montaji 
+(turlari boʼyicha)"
+336,336,Б,5340500,"Qurilish materiallari, buyumlari va konstruktsiyalarini ishlab chiqarish"
+337,337,Б,5340600,Yoʼl muhandisligi (sohalar va faoliyat turlari boʼyicha)
+338,338,Б,5340700,Gidrotexnika qurilishi (turlari boʼyicha)
+339,339,Б,5340701,Gidrotexnika qurilishi (suv xoʼjaligida)
+340,340,Б,5340900,Qiymat injiniringi va koʼchmas mulk ekspertizasi
+341,341,Б,5341200,Suv taʼminoti va kanalizatsiya tizimlarini loyihalashtirish va ekspluatatsiyasi
+342,342,Б,5341700,Аrxitektura yodgorliklari rekonstruktsiyasi va restavratsiyasi
+343,343,Б,5341800,Devorbop va pardozbop qurilish materiallari texnologiyasi
+344,344,Б,5350101,Telekommunikatsiya texnologiyalari (“Telekommunikatsiyalar”)
+345,345,Б,5350102,Telekommunikatsiya texnologiyalari: teleradioeshittirish
+346,346,Б,5350103,Telekommunikatsiya texnologiyalari: mobilь tizimlar
+347,347,Б,5350201,Televizion texnologiyalar: audiovizual texnologiyalar
+348,348,Б,5350202,Televizion texnologiyalar: telestudiya tizimlari va ilovalari
+349,349,Б,5350300,Аxborot-kommunikatsiya texnologiyalari sohasida iqtisodiyot va menejment
+350,350,Б,5350400,Аxborot-kommunikatsiya texnologiyalari sohasida kasb taʼlimi
+351,351,Б,5350600,Kutubxona-axborot faoliyati (faoliyat turlari boʼyicha)
+352,352,Б,5350700,Radioelektron qurilmalar va tizimlar (tarmoqlar boʼyicha)
+353,353,Б,5410100,Аgrokimyo va agrotuproqshunoslik
+354,354,Б,5410200,Аgronomiya (dehqonchilik mahsulotlari turlari boʼyicha)
+355,355,Б,5410201,Аgronomiya (em-xashak ekinlari)
+356,356,Б,5410215,Аgronomiya: anorchilik
+357,357,Б,5410216,Аgronomiya (sabzavotchilik va polizchilik)
+358,358,Б,5410300,Oʼsimliklarni himoya qilish (ekin turlari boʼyicha)
+359,359,Б,5410400,"Qishloq xoʼjaligi ekinlari selektsiyasi va urugʼchiligi 
+(ekin turlari boʼyicha)"
+360,360,Б,5410500,Qishloq xoʼjalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi (mahsulotlar turlari boʼyicha)
+361,361,Б,5410600,Zooinjeneriya (turlari boʼyicha)
+362,362,Б,5410601,Zooinjeneriya: baliqchilik
+363,363,Б,5410602,Zooinjeneriya: asalarichilik
+364,364,Б,5410603,Zooinjeneriya: qorakoʼlchilik
+365,365,Б,5410604,Zooinjeneriya: yilqichilik va tuyachilik
+366,366,Б,5410700,Yer kadastri va yerdan foydalanish
+367,367,Б,5410800,Oʼrmonchilik
+368,368,Б,5410900,Ipakchilik va tutchilik
+369,369,Б,5411000,Mevachilik va uzumchilik
+370,370,Б,5411100,Dorivor oʼsimliklarni yetishtirish va qayta ishlash texnologiyasi
+371,371,Б,5411200,Manzarali bogʼdorchilik va koʼkalamzorlashtirish
+372,372,Б,5411300,Oʼsimlikshunoslik (yaylov choʼl oʼsimlikshunosligi)
+373,373,Б,5411400,Chorvachilik mahsulotlarini qayta ishlash texnologiyasi
+374,374,Б,5411500,Oʼsimliklar va qishloq xoʼjalik mahsulotlari karantini
+375,375,Б,5411600,"Sabzavotchilik, polizchilik va kartoshkachilik"
+376,376,Б,5411700,Issiqxona xoʼjaligini tashkil etish va yuritish
+377,377,Б,5430100,Qishloq xoʼjaligini mexanizatsiyalashtirish
+378,378,Б,5430300,Qishloq va suv xoʼjaligida texnik servis
+379,379,Б,5430400,Qishloq xoʼjaligida innovatsion texnika va texnologiyalarni qoʼllash
+380,380,Б,5430500,Qishloq va suv xoʼjaligida energiya taʼminoti
+381,381,Б,5440100,Veterinariya meditsinasi (faoliyat turlari boʼyicha)
+382,382,Б,5440101,Veterinariya meditsinasi (yirik shoxli mollar kasalliklari)
+383,383,Б,5440200,Veterinariya farmatsevtikasi
+384,384,Б,5440300,Veterinariya diagnostikasi va laboratoriya ishlari
+385,385,Б,5440400,Veterinariya sanitariya ekspertizasi
+386,386,Б,5450200,Suv xoʼjaligi va melioratsiya
+387,387,Б,5450300,Suv xoʼjaligi va melioratsiya ishlarini mexanizatsiyalashtirish
+388,388,Б,5450400,Gidrotexnika inshootlari va nasos stantsiyalaridan foydalanish
+389,389,Б,5450500,Meliorativ gidrogeologiya
+390,390,Б,5450600,Irrigatsiya tizimlarida gidroenergetika obʼektlari
+391,391,Б,5450700,Suv taʼminoti muhandislik tizimlari
+392,392,Б,5450800,Suv xoʼjaligida innovatsion texnologiyalar va ulardan foydalanish
+393,393,Б,5510100,Davolash ishi
+394,394,Б,5510200,Pediatriya ishi
+395,395,Б,5510300,Tibbiy profilaktika ishi
+396,396,Б,5510400,Stomatologiya (yoʼnalishlar boʼyicha)
+397,397,Б,5510500,Farmatsiya (turlari boʼyicha)
+398,398,Б,5510600,Sanoat farmatsiyasi (turlari boʼyicha)
+399,399,Б,5510700,Oliy hamshiralik ishi
+400,400,Б,5510900,Tibbiy-biologik ish
+401,401,Б,5511100,Xalq tabobati
+402,402,Б,5520101,Ijtimoiy ish: pensiya taʼminoti
+403,403,Б,5520102,Ijtimoiy ish: oila va bolalar bilan ishlash
+404,404,Б,5610200,Mehmonxona xoʼjaligini tashkil etish va boshqarish
+405,405,Б,5610300,Turizm (faoliyat yoʼnalishlari boʼyicha)
+406,406,Б,5610301,Turizm (agroturizm)
+407,407,Б,5610501,Sport faoliyati: basketbol
+408,408,Б,5610502,Sport faoliyati: boks
+409,409,Б,5610503,Sport faoliyati: voleybol
+410,410,Б,5610504,Sport faoliyati: velosport
+411,411,Б,5610505,Sport faoliyati: gimnastika
+412,412,Б,5610506,Sport faoliyati: suzish
+413,413,Б,5610507,Sport faoliyati: yengil atletika
+414,414,Б,5610508,Sport faoliyati: qoʼl toʼpi
+415,415,Б,5610509,Sport faoliyati: qilichbozlik
+416,416,Б,5610510,Sport faoliyati: ogʼir atletika
+417,417,Б,5610511,Sport faoliyati: eshkak eshish
+418,418,Б,5610512,Sport faoliyati: tennis
+419,419,Б,5610513,Sport faoliyati: futbol
+420,420,Б,5610514,Sport faoliyati: badiiy gimnastika
+421,421,Б,5610515,Sport faoliyati: dzyu-do
+422,422,Б,5610516,Sport faoliyati: erkin kurash
+423,423,Б,5610517,Sport faoliyati: belbogʼli kurash
+424,424,Б,5610518,Sport faoliyati: taekvondo (WTF)
+425,425,Б,5610519,Sport faoliyati: sambo
+426,426,Б,5610520,Sport faoliyati: kurash
+427,427,Б,5610535,Sport faoliyati (xotin-qizlar sporti yoʼnalishi boʼyicha)
+428,428,Б,5610536,Sport faoliyati: sinxron suzish
+429,429,Б,5610537,Sport faoliyati: badminton
+430,430,Б,5610538,Sport faoliyati: yunon-rum kurashi
+431,431,Б,5610539,Sport faoliyati: ot sporti
+432,432,Б,5610540,Sport faoliyati: triatlon
+433,433,Б,5610541,Sport faoliyati: biatlon
+434,434,Б,5610542,Sport faoliyati: xokkey
+435,435,Б,5610543,Sport faoliyati: xotin-qizlar sportini rivojlantirish yoʼnalishi boʼyicha
+436,436,Б,5610544,Sport faoliyati: regbi
+437,437,Б,5610545,Sport faoliyati: shaxmat
+438,438,Б,5610546,Sport faoliyati: karate VKF
+439,439,Б,5610547,Sport faoliyati: togʼ changʼisi
+440,440,Б,5610548,Sport faoliyati: stol tennisi
+441,441,Б,5611400,Аholi va turistlarning ovqatlanishini tashkil etish servisi
+442,442,Б,5611501,Gid hamrohligi va tarjimonlik faoliyati (ingliz tili)
+443,443,Б,5611502,Gid hamrohligi va tarjimonlik faoliyati: nemis tili
+444,444,Б,5611503,Gid hamrohligi va tarjimonlik faoliyati: frantsuz tili
+445,445,Б,5611506,Gid hamrohligi va tarjimonlik faoliyati: xitoy tili
+446,446,Б,5611507,Gid hamrohligi va tarjimonlik faoliyati: indonez tili
+447,447,Б,5611504,Gid hamrohligi va tarjimonlik faoliyati: yapon tili
+448,448,Б,5611505,Gid hamrohligi va tarjimonlik faoliyati: malay tili
+449,449,Б,5611600,Noshirlik ishi
+450,450,Б,5611700,Maktab menejmenti
+451,451,Б,5620100,Transport logistikasi (transport turlari boʼyicha)
+452,452,Б,5620101,Transport logistikasi (avtomobilь transporti)
+453,453,Б,5620200,Havodagi harakatni boshqarish
+454,454,Б,5620400,Yoʼl harakatini tashkil etish
+455,455,Б,5620600,Аvtomobilь servisi
+456,456,Б,5630100,Ekologiya va atrof-muhit muhofazasi (tarmoqlar va sohalar boʼyicha)
+457,457,Б,5630101,Ekologiya va atrof-muhit muhofazasi (suv xoʼjaligida)
+458,458,Б,5630102,Ekologiya va atrof-muhit muhofazasi (qishloq xoʼjaligida)
+459,459,Б,5640100,Hayotiy faoliyat xavfsizligi
+460,460,Б,5640200,Mehnat muhofazasi va texnika xavfsizligi (tarmoqlar boʼyicha)
+461,461,Б,5640201,Mehnat muhofazasi va texnika xavfsizligi (suv xoʼjaligida)
+462,462,Б,5112300,Maktabgacha va boshlangʼich taʼlimda jismoniy tarbiya va sport
+463,463,Б,5150207,Sanʼatshunoslik: sahna va ekran sanʼati dramaturgiyasi
+464,464,Б,5150302,Аktyorlik sanʼati: musiqali teatr aktyorligi
+465,465,Б,5150303,Аktyorlik sanʼati: qoʼgʼirchoq teatr aktyorligi
+466,466,Б,5150401,Rejissyorlik: qoʼgʼirchoq teatri rejissyorligi
+467,467,Б,5150406,Rejissyorlik: kino va televidenie rejissyorligi
+468,468,Б,5150901,Dizayn: kompьyuter grafikasi va badiiy foto
+469,469,Б,5230200,Menejment (suv xoʼjaligida)
+470,470,Б,5231007,"Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik 
+(Hindiston)"
+471,471,Б,5310200,Elektr energetikasi (tarmoqlar va yoʼnalishlar boʼyicha)
+472,472,Б,5311700,"Foydali qazilma konlari geologiyasi, qidiruv 
+va razvedkasi (kon turlari boʼyicha)"
+473,473,Б,5312100,Engergiya tejamkorligi va energoaudit
+474,474,Б,5320100,Materialshunoslik va yangi materiallar texnologiyasi (tarmoqlar boʼyicha)
+475,475,Б,5320100,"Materialshunoslik va yangi materiallar texnologiyasi 
+(qurilish)"
+476,476,Б,5320301,Texnologik mashinalar va jihozlar (kimyo sanoati boʼyicha)
+477,477,Б,5320400,Kimyoviy texnologiya (ishlab chiqarish turlari boʼyicha)
+478,478,Б,5321200,"Tabiiy tolalarni dastlabki ishlash texnologiyasi (xom ashyo 
+va jarayon turlari boʼyicha)"
+479,479,Б,5330200,Аxborot tizimlari va texnologiyalari (tarmoqlar va sohalar boʼyicha)
+480,480,Б,5330501,Kompьyuter injiniringi: kompьyuter injiniringi
+481,481,Б,5340500,"Qurilish materiallari, buyumlari va konstruktsiyalarini 
+ishlab chiqarish"
+482,482,Б,5341200,"Suv taʼminoti va kanalizatsiya tizimlarini loyihalashtirish 
+va ekspluatatsiyasi"
+483,483,Б,5350101,Telekommunikatsiya texnologiyalari: telekommunikatsiyalar
+484,484,Б,5410500,"Qishloq xoʼjalik mahsulotlarini saqlash va dastlabki 
+ishlash texnologiyasi (mahsulotlar turlari boʼyicha)"
+485,485,Б,5430200,Qishloq xoʼjaligini elektrlashtirish va avtomatlashtirish
+486,486,Б,5120134,Filologiya va tillarni oʼqitish: turk tili
+487,487,Б,5120306,Tarix: arab mamlakatlari tarixi
+488,488,Б,5120307,Tarix: Xitoy tarixi
+489,489,Б,5231010,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: arab mamlakatlari
+490,490,М,5А330502,Elektron hukumat tizimini boshqarish
+491,491,М,5А311501,Аviatsiya-kosmik vositalari bilan tabiiy resurslarni tadqiq qilish
+492,492,М,5А310604,Аvtomobillar va avtomobilь xoʼjaligi
+493,493,М,5А310501,Аvtomobilsozlik va traktorsozlik
+494,494,М,5А340603,Аvtomobilь yoʼllari va aerodromlar (turlari boʼyicha)
+495,495,М,5А340604,Аvtomobilь yoʼllarini loyihalash va qurish
+496,496,М,5А310607,Аvtotransport vositalarini sinash
+497,497,М,5А313701,Аvtotransport vositalarining gaz ballonli uskunalariga texnik xizmat koʼrsatish
+498,498,М,5А233301,Аgrobiznes va investitsion faoliyat
+499,499,М,5А410102,Аgrokimyo
+500,500,М,5А410201,Аgronomiya
+501,501,М,5А410101,Аgrotuproqshunoslik va agrofizika: tuproq agrofizikasi
+502,502,М,5А410101,Аgrotuproqshunoslik va agrofizika: tuproq bonitirovkasi
+503,503,М,5А120101,Аdabiyotshunoslik (ingliz adabiyoti)
+504,504,М,5А120101,Аdabiyotshunoslik (oʼzbek adabiyoti)
+505,505,М,5А120101,Аdabiyotshunoslik: dariy tili
+506,506,М,5А120101,Аdabiyotshunoslik: ingliz adabiyoti
+507,507,М,5А120101,Аdabiyotshunoslik: koreys tili
+508,508,М,5А120101,Аdabiyotshunoslik: qozoq adabiyoti
+509,509,М,5А120101,Аdabiyotshunoslik: qoraqalpoq adabiyoti
+510,510,М,5А120101,Аdabiyotshunoslik: rus adabiyoti
+511,511,М,5А120101,Аdabiyotshunoslik: tojik adabiyoti
+512,512,М,5А120101,Аdabiyotshunoslik: turk tili
+513,513,М,5А120101,Аdabiyotshunoslik: turkman adabiyoti
+514,514,М,5А120101,Аdabiyotshunoslik: oʼzbek adabiyoti
+515,515,М,5А120101,Аdabiyotshunoslik: fors tili
+516,516,М,5А120101,Аdabiyotshunoslik: hind tili
+517,517,М,5А120101,Аdabiyotshunoslik: yapon tili
+518,518,М,5А240101,Аdvokatlik faoliyati
+519,519,М,5А150301,Аktyorlik sanʼati: drama teatri va kino aktyorligi sanʼati
+520,520,М,5А150301,Аktyorlik sanʼati: qoʼgʼirchoq teatr aktyorligi sanʼati
+521,521,М,5А150301,Аktyorlik sanʼati: estrada aktyorligi sanʼati
+522,522,М,5А130103,Аktuar va moliyaviy matematika
+523,523,М,5А510101,Аkusherlik va ginekologiya
+524,524,М,5А510130,Аllergologiya va klinik immunologiya
+525,525,М,5А140603,Аmaliy geografiya (sohalar boʼyicha)
+526,526,М,5А151003,Аmaliy grafika
+527,527,М,5А314101,Аmaliy kosmik texnologiyalar
+528,528,М,5А130201,Аmaliy matematika (sohalar boʼyicha)
+529,529,М,5А210301,Аmaliy siyosatshunoslik
+530,530,М,5А510120,Аnesteziologiya va reanimatologiya
+531,531,М,5А110401,Аniq va tabiiy fanlarni oʼqitish metodikasi (biologiya)
+532,532,М,5А110501,Аniq va tabiiy fanlarni oʼqitish metodikasi (geografiya)
+533,533,М,5А110301,Аniq va tabiiy fanlarni oʼqitish metodikasi (kimyo)
+534,534,М,5А110101,Аniq va tabiiy fanlarni oʼqitish metodikasi (matematika)
+535,535,М,5А110201,"Аniq va tabiiy fanlarni oʼqitish metodikasi (fizika 
+va astronomiya)"
+536,536,М,5А120401,Аrxeologiya
+537,537,М,5А340102,"Аrxitektura nazariyasi va tarixi, arxitektura yodgorliklarini tiklash"
+538,538,М,5А140401,Аstronomiya (tadqiqot yoʼnalishi boʼyicha)
+539,539,М,5А510302,Аtrof-muhit va inson salomatligi
+540,540,М,5А630101,Аtrof-muhit muhofazasi (tarmoqlar va sohalar boʼyicha)
+541,541,М,5А630101,Аtrof-muhit muhofazasi: geoaxborot tizimlari
+542,542,М,5А630101,Аtrof-muhit muhofazasi: qishloq va suv xoʼjaligida
+543,543,М,5А630101,Аtrof-muhit muhofazasi: xalqaro yer va suv resurslarini boshqarish
+544,544,М,5А230902,Аudit (tarmoqlar va sohalar boʼyicha)
+545,545,М,5А330204,Аxborot tizimlari (tarmoqlar boʼyicha)
+546,546,М,5А330302,Аxborot xavfsizligi (yoʼnalishlar boʼyicha)
+547,547,М,5А220401,Аxborot xavfsizligini boshqarish
+548,548,М,5А220201,Аxborot xizmati va jamoatchilik bilan aloqalar
+549,549,М,5А411201,Аholi yashash joylarini koʼkalamzorlashtirish va landshaftli dizayn
+550,550,М,5А151203,Badiiy kulolchilik
+551,551,М,5А410606,Baliqchilik
+552,552,М,5А230701,Bank ishi v auditi
+553,553,М,5А150101,Bastakorlik sanʼati
+554,554,М,5А231501,Baholash ishi va rieltorlik (obʼektlar boʼyicha)
+555,555,М,5А240110,Biznes huquqi
+556,556,М,5А230302,Biznesni boshqarish (Master of Business Administration-MBA)
+557,557,М,5А340101,Bino va inshootlar arxitekturasi
+558,558,М,5А340201,Bino va inshootlar qurilishi (inshootlar turi boʼyicha)
+559,559,М,5А340207,Bino va inshootlarni konstruktiv loyihalash
+560,560,М,5А140101,Biologiya (fan yoʼnalishi boʼyicha)
+561,561,М,5А140104,Biotexnologiya
+562,562,М,5А320501,Biotexnologiya (mahsulot turi boʼyicha)
+563,563,М,5А140103,Biofizika va biokimyo
+564,564,М,5А340503,Bogʼlanuvchan qurilish materiallari texnologiyasi
+565,565,М,5А230501,Bojxona ishi (faoliyat turlari boʼyicha)
+566,566,М,5А510203,Bolalar anesteziologiyasi va reanimatologiyasi
+567,567,М,5А510201,Bolalar va oʼsmirlar ginekologiyasi
+568,568,М,5А510208,Bolalar gastroenterologiyasi
+569,569,М,5А510204,Bolalar kardiologiyasi va revmatologiyasi
+570,570,М,5А510205,Bolalar nevrologiyasi
+571,571,М,5А510202,Bolalar xirurgiyasi
+572,572,М,5А230901,Buxgalteriya hisobi (qishloq xoʼjaligida)
+573,573,М,5А230901,Buxgalteriya hisobi (tarmoqlar va sohalar boʼyicha)
+574,574,М,5А230903,Byudjet hisobi va nazorat
+575,575,М,5А310608,Vagonsozlik
+576,576,М,5А440102,Veterinariya jarrohligi
+577,577,М,5А440107,"Veterinariya mikrobiologiyasi, virusologiyasi, epizootologiyasi, mikologiyasi va immunologiyasi"
+578,578,М,5А440105,"Veterinariya sanitariyasi, veterinar-sanitarlik ekspertizasi va chorvachilik mahsulotlarini qayta ishlash gigienasi"
+579,579,М,5А440103,Veterinariya farmakologiyasi va toksikologiyasi
+580,580,М,5А351002,Videotexnologiyalar
+581,581,М,5А150601,Vokal sanʼati: akademik xonandalik
+582,582,М,5А150601,Vokal sanʼati: anʼanaviy xonandalik
+583,583,М,5А510131,Gematologiya va transfuziologiya
+584,584,М,5А330205,Geoaxborot tizimlari va texnologiyalari
+585,585,М,5А140602,Geografiya (oʼrganish obʼekti boʼyicha)
+586,586,М,5А313401,Geodeziya va geoinformatika
+587,587,М,5А311502,Geodeziya va kartografiya (funktsiyalari boʼyicha)
+588,588,М,5А140808,"Geokimyo, foydali qazilmalarni qidirishning geokimyoviy usullari"
+589,589,М,5А140802,Geologik sʼyomka va foydali qazilmalar konlarini qidirish
+590,590,М,5А140801,Geologiya (faoliyat turlari boʼyicha )
+591,591,М,5А340702,Geotexnika va yer osti gidrotexnika inshootlari
+592,592,М,5А140805,"Geofizika, foydali qazilmalarni qidirishning geofizik usullari"
+593,593,М,5А510301,Gigiena (yoʼnalishlar boʼyicha)
+594,594,М,5А611501,Gid hamrohligi va tarjimonlik faoliyati (tillar boʼyicha)
+595,595,М,5А141104,Gidravlika va muhandislik gidrologiyasi
+596,596,М,5А141102,Gidrogeologiya (oʼrganish obʼekti boʼyicha)
+597,597,М,5А311801,Gidrogeologiya va muhandislik geologiyasi
+598,598,М,5А311710,Gidrogeofizika va muhandislik geofizikasi
+599,599,М,5А141101,Gidrologiya (oʼrganish obʼektlari boʼyicha)
+600,600,М,5А450301,Gidromelioratsiya ishlarini mexanizatsiyalashtirish
+601,601,М,5А450205,Gidromelioratsiya tizimlaridan foydalanish
+602,602,М,5А140702,Gidrometeorologiya (faoliyat turi boʼyicha)
+603,603,М,5А340701,Gidrotexnika inshootlari (inshootlar turi boʼyicha)
+604,604,М,5А340701,Gidrotexnika inshootlari (suv xoʼjaligida)
+605,605,М,5А340704,"Gidrotexnika inshootlari qurilishini tashkil etish 
+va texnologiyasi"
+606,606,М,5А450401,"Gidrotexnika inshootlaridan foydalanish, ularning ishonchliligi va xavfsizligi"
+607,607,М,5А310101,Gidroelektrstantsiyalar
+608,608,М,5А450101,GES qurilishi va ulardan foydalanish
+609,609,М,5А240108,Davlat boshqaruvi huquqi
+610,610,М,5А120303,Davlat va fuqarolik jamiyati institutlari boshqaruvi
+611,611,М,5А230601,Davlat moliyasi va xalqaro moliya
+612,612,М,5А151001,Dastgoh va kitob grafikasi
+613,613,М,5А340502,Devorbop va pardozbop materiallar texnologiyasi
+614,614,М,5А510108,Dermatovenerologiya
+615,615,М,5А510128,Dietologiya
+616,616,М,5А150901,Dizayn (arxitekturaviy muhit dizayni)
+617,617,М,5А150901,Dizayn (kostyum dizayni)
+618,618,М,5А150901,Dizayn (sanoat dizayni)
+619,619,М,5А150901,Dizayn: interьerni loyihalash
+620,620,М,5А150901,Dizayn: libos va gazlamalar
+621,621,М,5А150501,Dirijyorlik: akademik xor dirijyorligi
+622,622,М,5А320406,Dorivor vositalar va preparatlar texnologiyasi
+623,623,М,5А411101,Dorivor oʼsimliklarni yetishtirish texnologiyasi
+624,624,М,5А510603,Dorilarning sanoat texnologiyasi
+625,625,М,5А320307,Yogʼochga ishlov berish texnologiyasi va yogʼochshunoslik
+626,626,М,5А320902,Yengil sanoat mahsulotlari texnologiyasi va jihozlari (mahsulot turlari boʼyicha)
+627,627,М,5А321503,Yengil sanoat mashinalari va apparatlari
+628,628,М,5А410701,Yer resurslaridan foydalanish va boshqarish
+629,629,М,5А310601,"Er usti transport vositalari va tizimlari 
+(transport turlari boʼyicha)"
+630,630,М,5А231101,Jahon iqtisodiyoti (mintaqalar va faoliyat turlari boʼyicha)
+631,631,М,5А240116,Jinoyat qonunchiligini qoʼllash nazariyasi va amaliyoti
+632,632,М,5А112001,"Jismoniy tarbiya va sport mashgʼulotlari nazariyasi 
+va metodikasi"
+633,633,М,5А610502,Jismoniy tarbiya va sport menejmenti
+634,634,М,5А220101,Jurnalistika (faoliyat turlari boʼyicha)
+635,635,М,5А220101,Jurnalistika: bosma ommaviy axborot vositalari jurnalistikasi
+636,636,М,5А220101,Jurnalistika: internet jurnalistika
+637,637,М,5А220101,Jurnalistika: siyosiy-huquqiy jurnalistika
+638,638,М,5А220101,Jurnalistika: sport jurnalistikasi
+639,639,М,5А520101,Ijtimoiy ish (yoshlar bilan ishlashni tashkil etish)
+640,640,М,5А520101,Ijtimoiy ish (faoliyatning turli sohalari boʼyicha)
+641,641,М,5А210102,"Ijtimoiy tizim va jarayonlarning axborot 
+va psixologik xavfsizligi"
+642,642,М,5А111601,"Ijtimoiy-gumanitar fanlarni oʼqitish metodikasi 
+(maʼnaviyat asoslari)"
+643,643,М,5А110601,Ijtimoiy-gumanitar fanlarni oʼqitish metodikasi (tarix)
+644,644,М,5А111602,Ijtimoiy-gumanitar fanlarni oʼqitish metodikasi (huquq taʼlimi)
+645,645,М,5А140703,Iqlim oʼzgarishi va iqlimiy xatarlarni baholash
+646,646,М,5А230102,Iqtisodiyot (qishloq xoʼjaligida)
+647,647,М,5А230102,Iqtisodiyot (qurilish iqtisodiyoti)
+648,648,М,5А230102,Iqtisodiyot (tarmoqlar va sohalar boʼyicha)
+649,649,М,5А230107,Iqtisodiyotda axborot texnologiyalari va tizimlari
+650,650,М,5А230101,Iqtisodiy nazariya
+651,651,М,5А232401,Iqtisodiy xavfsizlik
+652,652,М,5А510602,Immunobiologik va mikrobiologik preparatlar texnologiyasi
+653,653,М,5А230603,Investitsiyalarni boshqarish (tarmoqlar va sohalar boʼyicha)
+654,654,М,5А231601,Inson resurslarini boshqarish
+655,655,М,5А350902,Intellektual axborot-kommunikatsiya tizimlari
+656,656,М,5А240127,Intellektual mulk va axborot texnologiyalari huquqi
+657,657,М,5А312701,Intellektual muhandislik tizimlari (tarmoqlar va sohalar boʼyicha)
+658,658,М,5А310609,Intellektual transport tizimlari
+659,659,М,5А340203,Infratuzilma obʼektlarini qurish (inshootlar turi boʼyicha)
+660,660,М,5А410901,Ipakchilik
+661,661,М,5А160107,Islomshunoslik
+662,662,М,5А310105,Issiqlik texnikasi (qoʼllanish obʼekti boʼyicha)
+663,663,М,5А310605,Ichki yonuv dvigatellarini sinash va ulardan foydalanish
+664,664,М,5А311301,Kadastr (faoliyat turlari boʼyicha)
+665,665,М,5А231701,Kapital bozori va birja ishi
+666,666,М,5А510105,Kardiologiya
+667,667,М,5А411004,Kartoshkachilik
+668,668,М,5А320402,Katalizatorlar va adsorbentlar texnologiyasi
+669,669,М,5А140501,Kimyo (fan yoʼnalishi boʼyicha)
+670,670,М,5А321401,Kimyoviy va neftь-gazkimyoviy texnologiyalar
+671,671,М,5А320305,Kimyoviy sanoat va qurilish materiallari korxonalarining mashinalari hamda apparatlari
+672,672,М,5А320401,Kimyoviy texnologiya (ishlab chiqarish turlari boʼyicha)
+673,673,М,5А150802,Kino va telefilьmning tasviriy yechimi
+674,674,М,5А151501,Kinooperatorlik
+675,675,М,5А340301,Kommunal infratuzilmani tashkil etish va boshqarish
+676,676,М,5А151004,Kompьyuter grafikasi va badiiy surat
+677,677,М,5А150902,Kompьyuter grafikasi va dizayn
+678,678,М,5А330101,Kompьyuter ilmlari va dasturlash texnologiyalari (yoʼnalishlar boʼyicha)
+679,679,М,5А330501,Kompьyuter injiniringi (“Kompьyuter tizimlarini loyihalash”)
+680,680,М,5А330501,"Kompьyuter injiniringi (“Kompьyuter tizimlarini loyihalash”, “Аmaliy dasturiy vositalarni loyihalash”, “Аxborot va mulьtimedia texnologiyalari”)"
+681,681,М,5А120106,Kompьyuter lingvistikasi
+682,682,М,5А330201,"Kompьyuter tizimlari va ularning dasturiy taʼminoti 
+(tarmoqlar va sohalar boʼyicha)"
+683,683,М,5А311707,Konchilik geologiyasi va geofizikasi
+684,684,М,5А311711,Konchilik geofizikasi
+685,685,М,5А312201,Konchilik mashinalari va jihozlari
+686,686,М,5А231901,Korporativ boshqaruv
+687,687,М,5А230602,Korporativ moliya va qimmatli qogʼozlar bozori (sohalar boʼyicha)
+688,688,М,5А330301,Kriptografiya va kriptoanaliz (yoʼnalishlar boʼyicha)
+689,689,М,5А310305,"Kukunli metallurgiya, kompozitsion materiallar, qoplamalar"
+690,690,М,5А340605,"Koʼpriklar, tonnellar va yoʼl oʼtkazgichlar qurilishi"
+691,691,М,5А340901,Koʼchmas mulkni baholash va boshqarish
+692,692,М,5А140204,Qayta tiklanuvchi energiya manbalari va barqaror atrof-muhit fizikasi
+693,693,М,5А120603,Qiyosiy dinshunoslik
+694,694,М,5А120201,"Qiyosiy tilshunoslik, lingvistik tarjimashunoslik (tillar boʼyicha)"
+695,695,М,5А120201,"Qiyosiy tilshunoslik, lingvistik tarjimashunoslik: arab tili"
+696,696,М,5А120201,"Qiyosiy tilshunoslik, lingvistik tarjimashunoslik: turk tili"
+697,697,М,5А120201,"Qiyosiy tilshunoslik, lingvistik tarjimashunoslik: yapon tili"
+698,698,М,5А430501,Qishloq va suv xoʼjaligida energiya taʼminoti
+699,699,М,5А430101,Qishloq xoʼjaligini mexanizatsiyalashtirish (tarmoqlar boʼyicha)
+700,700,М,5А410501,Qishloq xoʼjalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi (mahsulotlar turlari boʼyicha)
+701,701,М,5А410501,Qishloq xoʼjalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi: dala ekinlari mahsulotlari
+702,702,М,5А410501,Qishloq xoʼjalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi: meva-sabzavot mahsulotlari
+703,703,М,5А410501,Qishloq xoʼjalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi: paxta xom-ashyosi
+704,704,М,5А430102,"Qishloq xoʼjalik texnikasini loyihalashtirish 
+va konstruktsiyasini ishlash"
+705,705,М,5А410603,"Qishloq xoʼjalik hayvonlarini urchitish, koʼpaytirish 
+va ularning selektsiyasi (hayvonot turlari boʼyicha)"
+706,706,М,5А410602,Qorakoʼl qoʼylari selektsiyasi
+707,707,М,5А411402,Qorakoʼlchilik mahsulotlarini ishlab chiqarish va qayta ishlash
+708,708,М,5А311709,Quduqlarning geofizik tadqiqotlari
+709,709,М,5А322101,Quymakorlik ishlab chiqarishi texnologiyasi (turlari boʼyicha)
+710,710,М,5А340204,"Qurilish konstruktsiyalari, maxsus jihozlar va muhandislik tizimlari montaji"
+711,711,М,5А340501,"Qurilish materiallari, buyumlari, konstruktsiyalari va ularni ishlab chiqarish texnologiyalari"
+712,712,М,5А312901,"Lazer, yorugʼlik-diod texnologiyalari va optoelektronika"
+713,713,М,5А120102,Lingvistika (arab tili)
+714,714,М,5А120102,Lingvistika (oʼzbek tili)
+715,715,М,5А120102,Lingvistika: arab tili
+716,716,М,5А120102,Lingvistika: dariy tili
+717,717,М,5А120102,Lingvistika: ingliz tili
+718,718,М,5А120102,Lingvistika: ispan tili
+719,719,М,5А120102,Lingvistika: italьyan tili
+720,720,М,5А120102,Lingvistika: koreys tili
+721,721,М,5А120102,Lingvistika: qozoq tili
+722,722,М,5А120102,Lingvistika: qoraqalpoq tili
+723,723,М,5А120102,Lingvistika: nemis tili
+724,724,М,5А120102,Lingvistika: rus tili
+725,725,М,5А120102,Lingvistika: tojik tili
+726,726,М,5А120102,Lingvistika: turk tili
+727,727,М,5А120102,Lingvistika: turkman tili
+728,728,М,5А120102,Lingvistika: oʼzbek tili
+729,729,М,5А120102,Lingvistika: urdu tili
+730,730,М,5А120102,Lingvistika: fors tili
+731,731,М,5А120102,Lingvistika: frantsuz tili
+732,732,М,5А120102,Lingvistika: xitoy tili
+733,733,М,5А120102,Lingvistika: yapon tili
+734,734,М,5А232501,Logistika (agrologistika)
+735,735,М,5А232501,Logistika (yoʼnalishlar boʼyicha)
+736,736,М,5А151701,Madaniyat va sanʼat sohasi menejmenti
+737,737,М,5А121201,Madaniyatlararo kommunikatsiyalarning lingvistik taʼminoti (tillar boʼyicha)
+738,738,М,5А151702,Madaniyatshunoslik
+739,739,М,5А230103,Makroiqtisodiyot
+740,740,М,5А411202,Manzarali bogʼdorchilik
+741,741,М,5А230401,Marketing (suv xoʼjaligida)
+742,742,М,5А230401,Marketing (tarmoqlar va sohalar boʼyicha)
+743,743,М,5А312301,Marksheyderlik ishi (sohalar boʼyicha)
+744,744,М,5А320801,Matbaa mashinalari va apparatlariga servis xizmati koʼrsatish
+745,745,М,5А320802,Matbaa texnologiyasi va dizayni
+746,746,М,5А130102,Matematik iqtisodiyot
+747,747,М,5А130301,Matematik injiniring
+748,748,М,5А130101,Matematika (yoʼnalishlar boʼyicha)
+749,749,М,5А320408,Materiallar kimyoviy qarshiligi va zanglashdan himoyalash
+750,750,М,5А320101,Materialshunoslik va materiallar texnologiyasi (tarmoqlar boʼyicha)
+751,751,М,5А120701,Matnshunoslik va adabiy manbashunoslik (tillar boʼyicha)
+752,752,М,5А111901,"Maxsus pedagogika, defektologiya: logopediya"
+753,753,М,5А111901,"Maxsus pedagogika, defektologiya: oligofrenopedagogika"
+754,754,М,5А111901,"Maxsus pedagogika, defektologiya: surdopedagogika"
+755,755,М,5А310901,"Mahsulotlar xavfsizligi va ularning sertifikatsiyasi 
+(tarmoqlar boʼyicha)"
+756,756,М,5А310901,Mahsulotlar xavfsizligi va ularning sertifikatsiyasi (qishloq xoʼjaligi mahsulotlari)
+757,757,М,5А320202,Mashinasozlik ishlab chiqarishning avtomatlashtirilgan dastgohli komplekslari
+758,758,М,5А320201,Mashinasozlik texnologiyasi va jihozlari (ishlab chiqarish boʼyicha)
+759,759,М,5А320302,Mashinashunoslik
+760,760,М,5А330504,Maʼlumotlar ilmi (Data Science)
+761,761,М,5А411005,Meva-sabzavotchilikda biotexnologiya
+762,762,М,5А411002,Mevachilik
+763,763,М,5А450202,Melioratsiya va sugʼorma dehqonchilik
+764,764,М,5А230201,Menejment (suv xoʼjaligida)
+765,765,М,5А230201,Menejment (tarmoqlar va sohalar boʼyicha)
+766,766,М,5А230201,"Menejment (turizm, mehmonxona va ommaviy tadbirlar)"
+767,767,М,5А320203,Metallarga bosim bilan ishlov berish (turlari boʼyicha)
+768,768,М,5А310301,Metallurgiya (metall turlari boʼyicha)
+769,769,М,5А310302,"Metallurgiya mashinalari va jihozlari (ishlab chiqarish 
+turi boʼyicha)"
+770,770,М,5А140701,"Meteorologiya, iqlimshunoslik, agrometeorologiya 
+(faoliyat turlari boʼyicha)"
+771,771,М,5А310902,"Metrologiya, standartlashtirish va sifatni boshqarish 
+(tarmoqlar boʼyicha)"
+772,772,М,5А140301,Mexanika va matematik modellashtirish
+773,773,М,5А312601,Mexatronika va robototexnika
+774,774,М,5А610201,Mehmonxona xoʼjaligini tashkil etish va boshqarish
+775,775,М,5А640101,"Mehnat muhofazasi, ishlab chiqarish va texnologik jarayonlar xavfsizligi (qishloq va suv xoʼjaligida)"
+776,776,М,5А640101,"Mehnat muhofazasi, ishlab chiqarish va texnologik jarayonlar xavfsizligi (tarmoqlar boʼyicha)"
+777,777,М,5А240115,Mehnat huquqi
+778,778,М,5А140102,Mikrobiologiya va virusologiya
+779,779,М,5А140810,Mineralogiya va kristallografiya
+780,780,М,5А310106,Mini va mikro gidroelektrostantsiyalar
+781,781,М,5А232301,Mintaqaviy iqtisodiyot
+782,782,М,5А350901,Mobil aloqa tizimlari
+783,783,М,5А230108,Monopoliyaga qarshi boshqaruv va raqobatni rivojlantirish
+784,784,М,5А510118,Morfologiya (yoʼnalishlar boʼyicha)
+785,785,М,5А150204,"Muzeyshunoslik, tarixiy-madaniy obʼektlarni konservatsiya qilish, taʼmirlash va saqlash"
+786,786,М,5А312401,Muqobil energiya manbalari (turlari boʼyicha)
+787,787,М,5А350201,Multiplikatsion filьmlar texnologiyalari
+788,788,М,5А150803,Mulьtfilьm va kompьyuter mulьtiplikatsiyasi
+789,789,М,5А120103,Mumtoz filologiya (turlari boʼyicha)
+790,790,М,5А150202,Musiqa sanʼati
+791,791,М,5А111101,Musiqa taʼlimi va sanʼat
+792,792,М,5А110802,Muhandislik grafikasi va dizayn nazariyasi
+793,793,М,5А340401,"Muhandislik kommunikatsiya tizimlari, qurilishi va montaji (turlari boʼyicha)"
+794,794,М,5А510119,Narkologiya
+795,795,М,5А410605,Naslchilik ishi
+796,796,М,5А450402,Nasos stantsiyalari va qurilmalaridan foydalanish va tashxisi
+797,797,М,5А510109,Nevrologiya
+798,798,М,5А510133,Neyroreabilitologiya
+799,799,М,5А510114,Neyroxirurgiya
+800,800,М,5А510206,Neonatologiya
+801,801,М,5А140503,Neftь va gaz kimyosi va texnologiyasi
+802,802,М,5А311702,"Neftь va gaz konlari geologiyasi, qidiruv va razvedkasi"
+803,803,М,5А311902,Neftь va gaz konlari mashina va jihozlaridan foydalanish
+804,804,М,5А311901,Neftь va gaz konlarini ishga tushirish va ulardan foydalanish
+805,805,М,5А311706,"Neftь va gaz konlarini qidiruv-razvedka ishlarining 
+geofizik metodlari"
+806,806,М,5А340202,"Neftь va gaz quvurlari, baza va omborlarini qurish 
+va ulardan foydalanish"
+807,807,М,5А311903,Neftь va gaz quduqlarini burgʼulash
+808,808,М,5А321302,Neftь va gazni qayta ishlash va kimyoviy texnologiyasi
+809,809,М,5А321303,Neftь va gazni qayta ishlash jarayonlari va apparatlari
+810,810,М,5А320309,Neftь-gaz sanoati mashinalari va jihozlari
+811,811,М,5А321101,"Noyob va radioaktiv metallar rudalarini qazib olish, boyitish va qayta ishlash texnologiyasi"
+812,812,М,5А611604,Noshirlik ishi va muharrirlik
+813,813,М,5А510129,Nutritsiologiya
+814,814,М,5А151401,"Ovoz rejissyorligi: kino, televidenie va radio ovoz rejissyorligi"
+815,815,М,5А151401,Ovoz rejissyorligi: musiqiy ovoz rejissyorligi
+816,816,М,5А321001,Oziq-ovqat mahsulotlarini ishlab chiqarish va qayta ishlash texnologiyasi (mahsulot turlari boʼyicha)
+817,817,М,5А320311,Oziq-ovqat sanoati mashinalari va agregatlari
+818,818,М,5А321003,Oziq-ovqat xavfsizligi
+819,819,М,5А630104,Oqova suvlarni tozalash va suv resurslarini muhofaza qilish
+820,820,М,5А120101,Oliy adabiyot kurslari
+821,821,М,5А220101,Oliy jurnalistika kurslari
+822,822,М,5А510701,Oliy hamshiralik ishi
+823,823,М,5А111301,Ona tili va adabiyoti (qirgʼiz tili va adabiyoti)
+824,824,М,5А111301,Ona tili va adabiyoti (rus tili va adabiyoti)
+825,825,М,5А111301,Ona tili va adabiyoti (rus tili)
+826,826,М,5А111301,Ona tili va adabiyoti: koreys tili
+827,827,М,5А111301,Ona tili va adabiyoti: qozoq tili
+828,828,М,5А111301,Ona tili va adabiyoti: qozoq tili va adabiyoti
+829,829,М,5А111301,Ona tili va adabiyoti: qoraqalpoq tili va adabiyoti
+830,830,М,5А111301,Ona tili va adabiyoti: rus tili
+831,831,М,5А111301,Ona tili va adabiyoti: rus tili va adabiyoti
+832,832,М,5А350105,Optik tolali tarmoqlar texnik ekspluatatsiyasi
+833,833,М,5А410203,Organik dehqonchilik va oziq-ovqat xavfsizligi
+834,834,М,5А510104,Otorinolaringologiya
+835,835,М,5А510106,Oftalьmologiya
+836,836,М,5А320308,Payvandlash ishlab chiqarishi texnologiyasi va jihozlari
+837,837,М,5А410601,Parrandachilik
+838,838,М,5А510124,Patologik anatomiya
+839,839,М,5А320315,Paxta sanoati mashinalari va jihozlari
+840,840,М,5А321201,Paxtani dastlabki ishlash va urugʼ tayyorlash texnologiyasi
+841,841,М,5А110902,Pedagogika va psixologiya
+842,842,М,5А110901,Pedagogika nazariyasi va tarixi (faoliyat turi boʼyicha)
+843,843,М,5А510201,Pediatriya (yoʼnalishlar boʼyicha)
+844,844,М,5А310403,Pilotaj-navigatsiya majmualarining aviatsiya elektr tizimlaridan texnik foydalanish
+845,845,М,5А350501,Pochta xizmatini tashkil etish va texnologiyasi
+846,846,М,5А111001,Professional taʼlim nazariyasi va metodikasi (iqtisodiyot)
+847,847,М,5А111001,Professional taʼlim nazariyasi va metodikasi: transport vositalari muhandisligi (avtotransport)
+848,848,М,5А510111,Psixiatriya
+849,849,М,5А210201,Psixologiya (din psixologiyasi)
+850,850,М,5А210201,Psixologiya (ijtimoiy psixologiya)
+851,851,М,5А210201,Psixologiya (kasbga yoʼnaltiruv psixologiyasi)
+852,852,М,5А210201,Psixologiya (oilaviy munosabatlar psixologiyasi)
+853,853,М,5А210201,Psixologiya (faoliyat turlari boʼyicha)
+854,854,М,5А140502,Radiokimyo
+855,855,М,5А350703,Radiotexnik qurilmalar va aloqa vositalari
+856,856,М,5А350701,Radioelektron qurilmalar va tizimlar (turlari va tarmoqlar boʼyicha)
+857,857,М,5А234101,Raqamli iqtisodiyot
+858,858,М,5А150801,Rangtasvir: dastgohli rangtasvir
+859,859,М,5А150801,Rangtasvir: zamonaviy milliy rangtasvir
+860,860,М,5А150801,Rangtasvir: mahobatli rangtasvir
+861,861,М,5А150401,Rejissyorlik: kino va televidenie rejissyorligi
+862,862,М,5А150401,Rejissyorlik: estrada va ommaviy tomoshalar rejissyorligi
+863,863,М,5А313003,Rentgen texnikasi va texnologiyasi
+864,864,М,5А411001,Sabzavotchilik va polizchilik
+865,865,М,5А233601,Savdo ishi (turlari boʼyicha)
+866,866,М,5А310104,Sanoat issiqlik energetikasi
+867,867,М,5А151202,Sanʼat asarlari va meʼmoriy yodgorliklarni taʼmirlash
+868,868,М,5А150203,Sanʼat nazariyasi va tarixi (turlari boʼyicha)
+869,869,М,5А150203,Sanʼat nazariyasi va tarixi: kinoshunoslik
+870,870,М,5А140806,Seysmologiya va seysmometriya
+871,871,М,5А410401,Selektsiya va urugʼchilik (meva-sabzavot)
+872,872,М,5А410401,Selektsiya va urugʼchilik (ekinlar guruhlari boʼyicha)
+873,873,М,5А410401,Selektsiya va urugʼchilik: gʼoʼza
+874,874,М,5А410401,Selektsiya va urugʼchilik: donli ekinlar
+875,875,М,5А410401,Selektsiya va urugʼchilik: meva-sabzavot
+876,876,М,5А410401,Selektsiya va urugʼchilik: moyli ekinlar
+877,877,М,5А120202,Sinxron tarjima (ingliz tili)
+878,878,М,5А120202,Sinxron tarjima (tillar boʼyicha)
+879,879,М,5А120202,Sinxron tarjima: arab tili
+880,880,М,5А120202,Sinxron tarjima: ingliz tili
+881,881,М,5А120202,Sinxron tarjima: turk tili
+882,882,М,5А120202,Sinxron tarjima: xitoy tili
+883,883,М,5А320303,"Sovutish, kriogen texnikasi va moʼʼtadillash tizimlari mashinalari hamda agregatlari"
+884,884,М,5А510115,Sogʼliqni saqlashni boshqarish va jamoat sogʼligʼini saqlash (yoʼnalishlar boʼyicha)
+885,885,М,5А230801,Soliqlar va soliqqa tortish
+886,886,М,5А210101,Sotsiologiya (yoʼnalishlar boʼyicha)
+887,887,М,5А210101,Sotsiologiya (ommaviy kommunikatsiyalar sotsiologiyasi)
+888,888,М,5А510127,Sport tibbiyoti
+889,889,М,5А610501,Sport faoliyati (faoliyat turlari boʼyicha)
+890,890,М,5А240107,Sport huquqi
+891,891,М,5А231401,Statistika (tarmoqlar va sohalar boʼyicha)
+892,892,М,5А510401,Stomatologiya (yoʼnalishlar boʼyicha)
+893,893,М,5А411702,Subtropik va sitrus meva ekinlari
+894,894,М,5А450207,Suv resurslaridan mukammal foydalanish va boshqarish
+895,895,М,5А430502,"Suv xoʼjaligida Smart (intellektual) oʼlchash tizimlari 
+va asboblari"
+896,896,М,5А233001,Suv xoʼjaligini tashkil etish va boshqarish
+897,897,М,5А450206,Suvtejamkor sugʼorish texnologiyalari
+898,898,М,5А510123,Sud-tibbiyot ekspertizasi
+899,899,М,5А330701,Sunʼiy intellekt
+900,900,М,5А350903,Sunʼiy yoʼldoshli aloqa tizimlari
+901,901,М,5А120302,Tarix (Islom sivilizatsiyasi)
+902,902,М,5А120302,Tarix (yoʼnalishlar va faoliyat turi boʼyicha)
+903,903,М,5А120302,Tarix (Xitoy tarixi)
+904,904,М,5А120304,"Tarixshunoslik, manbashunoslik va tarixiy tadqiqot usullari (mamlakatlar boʼyicha)"
+905,905,М,5А151201,Tasviriy va amaliy bezak sanʼati (turlari boʼyicha)
+906,906,М,5А110801,Tasviriy sanʼat va amaliy bezak sanʼati
+907,907,М,5А231102,"Tashqi iqtisodiy faoliyat (tarmoqlar va faoliyat 
+yoʼnalishlari boʼyicha)"
+908,908,М,5А231102,Tashqi iqtisodiy faoliyat (tashqi savdo faoliyati)
+909,909,М,5А510113,"Tashxisning instrumental va funktsional usullari 
+(yoʼnalishlar boʼyicha)"
+910,910,М,5А111701,Taʼlim va tarbiya nazariyasi va metodikasi (boshlangʼich taʼlim)
+911,911,М,5А111801,Taʼlim va tarbiya nazariyasi va metodikasi (maktabgacha taʼlim)
+912,912,М,5А112101,Taʼlim va tarbiya nazariyasi va metodikasi (texnologik taʼlim)
+913,913,М,5А110903,Taʼlim muassasalarining boshqaruvi
+914,914,М,5А110102,Taʼlimda axborot texnologiyalari
+915,915,М,5А150201,Teatr sanʼati
+916,916,М,5А310611,Tezyurar elektropoezdlar
+917,917,М,5А220103,Televidenie va radio eshittirish
+918,918,М,5А350801,"Televidenie, radioaloqa va radioeshittirish qurilmalari hamda tizimlari (turlari boʼyicha)"
+919,919,М,5А350101,"Telekommunikatsiya injiniringi (“Аxborot uzatish tizimlari”, Telekommunikatsiya tarmoqlari”, “Teleradioeshittirish”)"
+920,920,М,5А350101,Telekommunikatsiya injiniringi: teleradioeshittirish
+921,921,М,5А350104,Telekommunikatsiya tizimlari va tarmoqlarida axborot xavfsizligi
+922,922,М,5А151502,Teleoperatorlik
+923,923,М,5А310603,Temir yoʼl transporti (transport turlari boʼyicha)
+924,924,М,5А311002,Temir yoʼl transportida avtomatika va telemexanika
+925,925,М,5А340601,Temir yoʼldan foydalanish va temir yoʼl xoʼjaligi
+926,926,М,5А510103,Terapiya (yoʼnalishlar boʼyicha)
+927,927,М,5А110904,Testologiya va pedagogik oʼlchovlarni baholash
+928,928,М,5А311001,Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish (suv xoʼjaligida)
+929,929,М,5А311001,Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish (tarmoqlar boʼyicha)
+930,930,М,5А321701,Texnologik jarayonlarni boshqarishning axborot-kommunikatsiya tizimlari
+931,931,М,5А321501,Texnologik mashinalar va jihozlarga texnik xizmat koʼrsatish (tarmoqlar boʼyicha)
+932,932,М,5А321502,Texnologiyalar va jihozlar (tarmoqlar boʼyicha)
+933,933,М,5А510116,Tibbiy psixologiya
+934,934,М,5А510132,Tibbiy radiologiya
+935,935,М,5А313001,"Tibbiy-biologik apparatlar, tizimlar va majmualar 
+(qoʼllanish sohasi boʼyicha)"
+936,936,М,5А510121,Travmatologiya va ortopediya
+937,937,М,5А340602,"Transport inshootlarining ekspluatatsiyasi 
+(transport inshootlari turlari boʼyicha)"
+938,938,М,5А340602,"Transport inshootlarining ekspluatatsiyasi (koʼpriklar 
+va tonnellar)"
+939,939,М,5А620101,Transport logistikasi (transport turlari boʼyicha)
+940,940,М,5А320310,Toʼqimachilik va yengil sanoat mashinalari hamda apparatlari
+941,941,М,5А320901,Toʼqimachilik mahsulotlari texnologiyasi (mahsulot turlari boʼyicha)
+942,942,М,5А320904,Toʼqimachilik sanoati buyumlarini badiiy loyihalash (dissinatorlar)
+943,943,М,5А141001,Tuproqshunoslik (tadqiqot turi boʼyicha)
+944,944,М,5А610301,Turizm (faoliyat turlari boʼyicha)
+945,945,М,5А410902,Tutchilik
+946,946,М,5А111201,Oʼzbek tili va adabiyoti
+947,947,М,5А112501,Oʼzga tilli guruhlarda rus tili
+948,948,М,5А411003,Uzumchilik va uzumni dastlabki qayta ishlash
+949,949,М,5А310802,"Oʼlchash va nazorat qilish asbob-uskunalari va metodlari 
+(turlari boʼyicha)"
+950,950,М,5А510110,Umumiy onkologiya
+951,951,М,5А340206,Unikal binolarni loyihalashtirish va qurish
+952,952,М,5А410801,Oʼrmonchilik
+953,953,М,5А510117,Urologiya
+954,954,М,5А411501,Oʼsimliklar va qishloq xoʼjalik mahsulotlari karantini
+955,955,М,5А410301,Oʼsimliklar himoyasi (usullari boʼyicha)
+956,956,М,5А410301,Oʼsimliklar himoyasi: biologik himoya qilish
+957,957,М,5А410301,Oʼsimliklar himoyasi: kimyoviy himoya qilish
+958,958,М,5А410304,Oʼsimliklar himoyasida monitoring va bashorat
+959,959,М,5А410202,Oʼsimlikshunoslik (ekinlar guruhlari boʼyicha)
+960,960,М,5А410202,Oʼsimlikshunoslik: donchilik
+961,961,М,5А410202,Oʼsimlikshunoslik: yem-xashak ekinlari
+962,962,М,5А410202,Oʼsimlikshunoslik: moylik ekinlar
+963,963,М,5А410202,Oʼsimlikshunoslik: paxtachilik
+964,964,М,5А410202,Oʼsimlikshunoslik: texnik ekinlar
+965,965,М,5А640103,Favqulodda vaziyatlarda aholi xavfsizligi
+966,966,М,5А440115,Favqulotda vaziyatlarda veterinariya nazorati va jamoat sogʼligʼini saqlash
+967,967,М,5А120501,Falsafa (sohalar boʼyicha)
+968,968,М,5А510126,Farmakologiya
+969,969,М,5А510501,Farmatsevtik kimyo va farmakognoziya
+970,970,М,5А510502,Farmatsevtika ishini tashkil qilish va boshqarish
+971,971,М,5А140201,Fizika (yoʼnalishlar boʼyicha)
+972,972,М,5А410303,Fitopatologiya
+973,973,М,5А311701,"Foydali qazilma konlari geologiyasi, qidiruv va razvedkasi (kon turlari boʼyicha)"
+974,974,М,5А311601,Foydali qazilma konlarini qazish (qazish usullari boʼyicha)
+975,975,М,5А311603,Foydali qazilmalarni boyitish (qazilma turlari boʼyicha)
+976,976,М,5А120105,Folkьlorshunoslik va dialektologiya
+977,977,М,5А150701,Fortepiano (organ)
+978,978,М,5А151601,Xalq ijodiyoti: ashula va raqs
+979,979,М,5А151601,Xalq ijodiyoti: folьklor va etnografiya
+980,980,М,5А151601,Xalq ijodiyoti: cholgʼu ijrochiligi
+981,981,М,5А240102,Xalqaro arbitraj va nizolarni hal etish
+982,982,М,5А240111,Xalqaro biznes huquqi
+983,983,М,5А220102,Xalqaro jurnalistika
+984,984,М,5А233501,"Xalqaro iqtisodiyot va menejment 
+(mintaqalar va faoliyat yoʼnalishlari boʼyicha)"
+985,985,М,5А121102,Xalqaro munosabatlar va jahon siyosati
+986,986,М,5А121101,Xalqaro munosabatlar va zamonaviy siyosiy jarayonlar
+987,987,М,5А240105,Xalqaro huquq (sohalar boʼyicha)
+988,988,М,5А151002,Xattotlik va miniatyura
+989,989,М,5А510112,Xirurgiya (yoʼnalishlar boʼyicha)
+990,990,М,5А151301,Xoreografiya sanʼati va xoreografiya (turlari boʼyicha)
+991,991,М,5А231001,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Koreya
+992,992,М,5А231001,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: MDH davlatlari
+993,993,М,5А231001,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Xitoy
+994,994,М,5А231001,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Yaqin Sharq mamlakatlari
+995,995,М,5А231001,Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Yaponiya
+996,996,М,5А111401,Xorijiy til va adabiyoti (ingliz tili)
+997,997,М,5А310405,Havo kemalari va aviatsiya dvigatellaridan foydalanish
+998,998,М,5А620201,Havodagi harakatni boshqarish va aeronavigatsiya
+999,999,М,5А440101,Hayvonlarga tashxis qoʼyish va davolash
+1000,1000,М,5А440108,Hayvonlarning parazitli va yuqumli kasalliklari
+1001,1001,М,5А151101,Haykaltaroshlik (turlari boʼyicha)
+1002,1002,М,5А620401,Harakat xavfsizligi va uni tashkil etish (transport turlari boʼyicha)
+1003,1003,М,5А510802,Harbiy qoʼshinlar tibbiy taʼminotini tashkil etish
+1004,1004,М,5А411701,Himoyalangan yer meva-sabzavotchiligi
+1005,1005,М,5А220301,"Hujjatchilik, hujjatshunoslik va arxivshunoslik"
+1006,1006,М,5А240118,Huquq va biznes
+1007,1007,М,5А320306,Sellyuloza-qogʼoz ishlab chiqarish texnologiyasi va jarayonlari
+1008,1008,М,5А150702,Cholgʼu ijrochiligi: anʼanaviy cholgʼular
+1009,1009,М,5А150702,Cholgʼu ijrochiligi: torli cholgʼular
+1010,1010,М,5А150702,Cholgʼu ijrochiligi: xalq cholgʼulari
+1011,1011,М,5А150702,Cholgʼu ijrochiligi: estrada cholgʼulari
+1012,1012,М,5А410604,Chorvachilik
+1013,1013,М,5А411401,"Chorvachilik mahsulotlarini yetishtirish, saqlash va qayta ishlashning anʼanaviy hamda innovatsion texnologiyasi va sertifikatsiyasi"
+1014,1014,М,5А120502,Sharq falsafasi va madaniyati
+1015,1015,М,5А311602,Shaxta va yer osti muhandisligi (marksheyderlik ishi)
+1016,1016,М,5А340606,Shahar yoʼllari va koʼchalari
+1017,1017,М,5А340302,Shahar transporti xoʼjaligi va aloqa yoʼllari
+1018,1018,М,5А340103,Shaharsozlik va landshaft arxitekturasi
+1019,1019,М,5А510125,Shoshilinch tibbiy yordam
+1020,1020,М,5А630102,Ekologiya (qishloq xoʼjaligida)
+1021,1021,М,5А630102,Ekologiya (tarmoqlar va sohalar boʼyicha)
+1022,1022,М,5А232201,Ekonometrika
+1023,1023,М,5А141002,Eksperimental agrokimyo
+1024,1024,М,5А510503,Eksperimental va sport farmakologiyasi
+1025,1025,М,5А310702,Elektr izolyatsiyali va kabelli texnika
+1026,1026,М,5А310701,Elektr mexanikasi (tarmoqlar boʼyicha)
+1027,1027,М,5А310610,Elektr poezdlar
+1028,1028,М,5А310203,Elektr stantsiyalari
+1029,1029,М,5А310201,Elektr taʼminoti (suv xoʼjaligida)
+1030,1030,М,5А310201,Elektr taʼminoti (tarmoqlar boʼyicha)
+1031,1031,М,5А310204,"Elektr energetikasi tizimlari va tarmoqlari 
+(faoliyat turlari boʼyicha)"
+1032,1032,М,5А321901,Elektron apparaturalar ishlab chiqarish texnologiyasi va elektronika sanoati texnologik mashina jihozlari
+1033,1033,М,5А350602,Elektron kutubxona va arxivlar
+1034,1034,М,5А232801,Elektron tijorat
+1035,1035,М,5А310801,Elektronika va elektron texnikasi (tarmoqlar boʼyicha)
+1036,1036,М,5А310704,Elektrotexnik majmualar va tizimlar (tarmoqlar boʼyicha)
+1037,1037,М,5А510102,Endokrinologiya
+1038,1038,М,5А312501,Energiya mashinasozligi (tarmoqlar boʼyicha)
+1039,1039,М,5А312101,Energiya tejamkorligi va energoaudit (suv xoʼjaligida)
+1040,1040,М,5А312101,Energiya tejamkorligi va energoaudit (tarmoqlar boʼyicha)
+1041,1041,М,5А410302,Entomologiya
+1042,1042,М,5А121401,"Etnografiya, etnologiya va antropologiya"
+1043,1043,М,5А320405,"Yuqori molekulali birikmalar kimyoviy texnologiyasi 
+(turlari boʼyicha)"
+1044,1044,М,5А510107,Yuqumli kasalliklar (yoʼnalishlar boʼyicha)
+1045,1045,М,5А140202,Yadro fizikasi va yadro texnologiyalari (qoʼllash sohalari boʼyicha)
+1046,1046,М,5А450209,Yaylovlar melioratsiyasi
+1047,1047,М,5А140205,Yarimoʼtkazgichlar fizikasi
+1048,1048,М,5А310804,Yarimoʼtkazgichli materiallar nanotexnologiyasi
