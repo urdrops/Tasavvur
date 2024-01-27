@@ -1,0 +1,115 @@
+{% extends 'tasavvur_t/base.html' %}
+
+{% block style %}
+
+{% endblock %}
+
+{% block content %}
+<div class="container chat-container">
+<!--  <h1>TasavvurUZ is ready to help you</h1>-->
+<div class="row justify-content-center">
+  <div class="col-sm-8 main-col">
+    <div class="row">
+      <div class="chat-content">
+        <ul class="message-list">
+
+          <li class="message-recieved">
+            <div class="message-text">
+              <div class="message-sender">
+                <span><b>TasavvurUZ Bot</b></span>
+              </div>
+              <div class="message-content">
+                <span>Hi, I am TasavvurBot Assistant</span>
+              </div>
+            </div>
+          </li>
+
+<!--          <li class="message-sent rounded-start-pill">-->
+<!--            <div class="message-text">-->
+<!--              <div class="message-sender">-->
+<!--                <span>You:</span>-->
+<!--              </div>-->
+<!--              <div class="message-content">-->
+<!--                <span>Who is the knyaz?</span>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </li>-->
+<!--          -->
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      {% csrf_token %}
+      <form action="" class="row message-form">
+          <div class="col-md-8">
+            <div class="mb-4 input-group">
+              <input type="text" class="form-control message-input" id="user-message" aria-describedby="user-input" placeholder="Enter a message">
+            </div>
+          </div>
+          <div class="col">
+              <button type="submit" class="btn btn-primary btn-send">Submit</button>
+          </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+
+  const messages = document.querySelector('.message-list');
+  const messageForm = document.querySelector('.message-form');
+  const messageInput = document.querySelector('.message-input');
+
+  messageForm.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const message = messageInput.value.trim();
+      console.log(message);
+      if (message.length === 0) {
+        return;
+      }
+  const messageItem = document.createElement('li');
+    messageItem.classList.add('message-sent');
+    messageItem.innerHTML = `
+        <div class="message-text">
+            <div class="message-sender">
+                <span><b>You:</b></span>
+            </div>
+            <div class="message-content">
+                ${message}
+            </div>
+        </div>`;
+    messages.appendChild(messageItem);
+    messageInput.value = '';
+
+  fetch('', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({
+        'csrfmiddlewaretoken': document.querySelector('[name=csrfmiddlewaretoken]').value,
+        'message': message
+      })
+    })
+      .then(response => response.json())
+      .then(data => {
+        const response = data.response;
+        const messageItem = document.createElement('li');
+        messageItem.classList.add('message-recieved');
+        messageItem.innerHTML = `
+        <div class="message-text">
+            <div class="message-sender">
+              <b>AI Chatbot</b>
+            </div>
+            <div class="message-content">
+                ${response}
+            </div>
+        </div>
+          `;
+        messages.appendChild(messageItem);
+      });
+
+  });
+</script>
+
+{%endblock %}
+
+

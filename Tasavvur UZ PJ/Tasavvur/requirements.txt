@@ -1,0 +1,15 @@
+jupyterlab
+python-dotenv
+openai
+gradio~=4.15.0
+guidance==0.0.64
+jupyter
+matplotlib
+pandas
+scipy
+nbformat~=5.9.2
+nbconvert~=7.14.2
+ipython~=8.20.0
+openpyxl
+chardet
+pyarrow
