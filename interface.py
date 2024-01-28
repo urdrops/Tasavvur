@@ -1,7 +1,6 @@
 import nbformat
 from nbconvert.preprocessors import ExecutePreprocessor
 import gradio as gr
-import os
 import time
 
 
@@ -57,7 +56,6 @@ with gr.Blocks() as demo:
         elem_id="TASAVVUR",
         label="TASAVVUR",
         bubble_full_width=False,
-        avatar_images=(None, (os.path.join(os.path.dirname(__file__), "avatar.png"))),
     )
 
     with gr.Row():

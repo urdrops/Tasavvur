@@ -13,3 +13,4 @@ ipython~=8.20.0
 openpyxl
 chardet
 pyarrow
+requests

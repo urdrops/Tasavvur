@@ -2,9 +2,9 @@ import chardet
 import os
 import pandas as pd
 import nbformat
-from IPython.core.display_functions import display
 from nbconvert.preprocessors import ExecutePreprocessor
 from nbconvert import HTMLExporter
+import requests
 
 
 class UploadFile:
@@ -39,7 +39,7 @@ class UploadFile:
 
             if file_extension == '.csv':
                 print("The file is already in CSV format.")
-                return
+                return file_path
 
             # Обработка разных типов файлов
             if file_extension == '.xlsx':
@@ -60,8 +60,66 @@ class UploadFile:
             # Удаление исходного файла
             os.remove(file_path)
             print(f'The original file {file_path} has been deleted.')
+            return csv_file_path
         except Exception as e:
             print(f"An error occurred: {str(e)}")
+
+    @staticmethod
+    def get_headfile(file_path):
+        import pandas as pd
+        df = pd.read_csv(file_path)
+        return df.head()
+
+    @staticmethod
+    def ocr_space_file(filename, overlay=False, api_key='helloworld', language='eng'):
+        """ OCR.space API request with local file.
+            Python3.5 - not tested on 2.7
+        :param filename: Your file path & name.
+        :param overlay: Is OCR.space overlay required in your response.
+                        Defaults to False.
+        :param api_key: OCR.space API key.
+                        Defaults to 'helloworld'.
+        :param language: Language code to be used in OCR.
+                        List of available language codes can be found on https://ocr.space/OCRAPI
+                        Defaults to 'en'.
+        :return: Result in JSON format.
+        """
+
+        payload = {'isOverlayRequired': overlay,
+                   'apikey': api_key,
+                   'language': language,
+                   }
+        with open(filename, 'rb') as f:
+            r = requests.post('https://api.ocr.space/parse/image',
+                              files={filename: f},
+                              data=payload,
+                              )
+        return r.content.decode()
+
+    @staticmethod
+    def ocr_space_url(url, overlay=False, api_key='K82183368388957', language='eng'):
+        """ OCR.space API request with remote file.
+            Python3.5 - not tested on 2.7
+        :param url: Image url.
+        :param overlay: Is OCR.space overlay required in your response.
+                        Defaults to False.
+        :param api_key: OCR.space API key.
+                        Defaults to 'helloworld'.
+        :param language: Language code to be used in OCR.
+                        List of available language codes can be found on https://ocr.space/OCRAPI
+                        Defaults to 'en'.
+        :return: Result in JSON format.
+        """
+
+        payload = {'url': url,
+                   'isOverlayRequired': overlay,
+                   'apikey': api_key,
+                   'language': language,
+                   }
+        r = requests.post('https://api.ocr.space/parse/image',
+                          data=payload,
+                          )
+        return r.content.decode()
 
 
 class NotebookExecutor:
@@ -84,13 +142,13 @@ class NotebookExecutor:
         try:
             executor.preprocess(self.notebook, {'metadata': {'path': '.'}})
         except Exception as e:
+
+            if self.notebook.cells:
+                del self.notebook.cells[-1]
             # Handle exceptions if any
             return {"error": str(e)}
 
-        if "text" in self.notebook.cells[-1].outputs:
-            print(self.notebook.cells[-1].outputs)
-        else:
-            display(self.notebook.cells[-1].outputs)
+        print(self.notebook.cells[-1].outputs)
 
         # Convert the executed notebook to HTML for display
         html_exporter = HTMLExporter()
