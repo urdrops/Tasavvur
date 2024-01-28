@@ -1,0 +1,38 @@
+{% extends 'tasavvur_t/base.html' %}
+
+{% block content %}
+
+<div class="">
+    <div class="row table_row">
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Data ID</th>
+            <th scope="col">Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in all_data %}
+          <tr>
+            <th scope="row">{{ item.id }}</th>
+            <td>{{ item.title }}</td>
+            <td>{{ item.data_id }}</td>
+            <td>{{ item.type }}</td>
+            <td>
+              <form action="{% url 'chat-bot' %}">
+                <input type="text" hidden="" value="{{ item.file }}" name="file_id">
+                <button type="submit" class="btn btn-primary">
+                  ADD TO CHAT
+                </button>
+              </form>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+</div>
+
+{% endblock %}

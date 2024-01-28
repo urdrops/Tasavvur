@@ -1,0 +1,60 @@
+<!--{% extends 'tasavvur_t/base.html' %}-->
+
+<!--{% block content %}-->
+
+<!--<div class="container">-->
+<!--    <div class="overflow-auto">-->
+<!--        <div class=" chat-box">-->
+
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+
+<!--{% endblock %}-->
+
+
+<!-- <div class="row justify-content-center">
+    <div class="col-sm-8" style="background-color:white;">
+        <div class="chat-content">
+          <ul class="message-list">
+            <li class="message-sent rounded-start-pill">
+              <div class="message-text">
+                <div class="message-sender">
+                  <span>You:</span>
+                </div>
+                <div class="message-content">
+                  <span>Who is the knyaz?</span>
+                </div>
+              </div>
+            </li>
+
+
+            <li class="message-recieved">
+              <div class="message-text">
+                <div class="message-sender">
+                  <span>TasavvurUZ Bot:</span>
+                </div>
+                <div class="message-content">
+                  <span>Joxon is knyaz</span>
+                </div>
+              </div>
+            </li>
+
+
+          </ul>
+        </div>
+      {% csrf_token %}
+      <form action="" class="message-form">
+        <div class="row justify-content-center">
+          <div class="col-sm-7" style="background-color:white;">
+            <div class="mb-3 input-group">
+              <input type="text" class="form-control message-input" id="user-message" aria-describedby="user-input" placeholder="Enter a message">
+            </div>
+          </div>
+          <div class="col-sm-4" style="">
+              <button type="submit" class="btn btn-primary btn-send">Submit</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div> -->

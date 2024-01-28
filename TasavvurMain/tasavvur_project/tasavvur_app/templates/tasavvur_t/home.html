@@ -1,0 +1,44 @@
+{% extends 'tasavvur_t/base.html' %}
+
+{% block content %}
+<div class="container home-container">
+    <div class="name-title">
+        <h1><span id="main-part-name">Tasavvur</span></h1>
+    </div>
+    <div class="row d-flex justify-content-center align-items-center">
+        <form action="{% url 'data-search' %}" method="GET">
+          <div class="row justify-content-md-center align-items-center">
+            <div class="form col-md-5">
+              <i class="fa fa-search"></i>
+              <input id="text" name="search_text" type="text" class="form-control form-input" placeholder="Search anything...">
+            </div>
+            <div class="col-md-auto">
+                <button type="submit" class="btn btn-primary btn-lg">Search</button>
+            </div>
+          </div>
+        </form>
+        <div class="row justify-content-md-center align-items-center">
+            <div class="col-md-auto">
+                <span style="color: white; font-size: 26px; font-weight: 800;margin:20px 0px;">OR</span>
+            </div>
+        </div>
+        <form action="{% url 'chat-bot' %}" class="row justify-content-md-center align-items-center">
+           <div class="form col-md-4">
+                <input class="form-control" type="file" id="formFile" name="file_id">
+            </div>
+            <div class="col-md-auto">
+                <button type="submit" class="btn btn-primary btn-lg">Continue</button>
+            </div>
+        </form>
+
+
+        <div class="text-animation">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=F7F7F7&random=true&width=435&height=100&lines=Elegant+Data+Visualization;Swift+and+Seamless+Information+Retrieval;Meticulous+Data+Refinement" alt="Typing SVG" />
+        </div>
+        </div>
+    </div>
+
+
+
+{% endblock %}
+
